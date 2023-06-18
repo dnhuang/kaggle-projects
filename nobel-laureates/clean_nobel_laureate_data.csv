@@ -416,7 +416,7 @@ index,Year,Firstname,Lastname,Category,Gender,Birth_Date,Birth_Country_Code,pres
 427,1973,Brian D.,Josephson,physics,male,04-01-1940,GB,United Kingdom,Brian D. Josephson,04-01
 428,1973,Ernst Otto,Fischer,chemistry,male,10-11-1918,DE,Germany,Ernst Otto Fischer,10-11
 429,1973,Geoffrey,Wilkinson,chemistry,male,14-07-1921,GB,United Kingdom,Geoffrey Wilkinson,14-07
-430,1973,Le Duc Tho,,peace,male,14-10-1911,VN,Vietnam,,14-10
+430,1973,Le Duc Tho,,peace,male,14-10-1911,VN,Vietnam,Le Duc Tho,14-10
 431,1973,Wassily,Leontief,economics,male,05-08-1906,RU,Russia,Wassily Leontief,05-08
 432,1973,Konrad,Lorenz,medicine,male,07-11-1903,AT,Austria,Konrad Lorenz,07-11
 433,1973,Leo,Esaki,physics,male,12-03-1925,JP,Japan,Leo Esaki,12-03
@@ -599,7 +599,7 @@ index,Year,Firstname,Lastname,Category,Gender,Birth_Date,Birth_Country_Code,pres
 614,1991,Nadine,Gordimer,literature,female,20-11-1923,ZA,South Africa,Nadine Gordimer,20-11
 615,1991,Bert,Sakmann,medicine,male,12-06-1942,DE,Germany,Bert Sakmann,12-06
 616,1991,Pierre-Gilles,de Gennes,physics,male,24-10-1932,FR,France,Pierre-Gilles de Gennes,24-10
-617,1991,Aung San Suu Kyi,,peace,female,19-06-1945,MM,Myanmar,,19-06
+617,1991,Aung San Suu Kyi,,peace,female,19-06-1945,MM,Myanmar,Aung San Suu Kyi,19-06
 618,1991,Erwin,Neher,medicine,male,20-03-1944,DE,Germany,Erwin Neher,20-03
 619,1991,Richard R.,Ernst,chemistry,male,14-08-1933,CH,Switzerland,Richard R. Ernst,14-08
 620,1992,Derek,Walcott,literature,male,23-01-1930,LC,Saint Lucia,Derek Walcott,23-01
