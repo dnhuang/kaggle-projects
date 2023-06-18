@@ -6,7 +6,7 @@ Got this idea from a post on r/kpop where a reddit user created a heatmap of bir
 
 Was surfing randomly around Kaggle one day and saw this dataset; thought it could work. Had to do some preprocessing and ran into some annoying outlier and null values, but I took care of them with imputation and simple removal.
 
-Created some simple visualizations in `eda.ipynb` with `seaborn` and `matplotlib`; noticed some interesting trends particularly with regards to gender.
+Created some simple visualizations in `eda_and_preprocessing.ipynb` with `seaborn` and `matplotlib`; noticed some interesting trends particularly with regards to gender.
 
 The heatmaps (motivation of the project) were created using Tableau.
 
