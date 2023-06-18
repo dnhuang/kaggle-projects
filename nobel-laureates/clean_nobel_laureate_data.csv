@@ -1,960 +1,948 @@
-,Year,Firstname,Lastname,Category,Gender,Birth_Date,Birth_Country_Code,present_birth_country
-0,1901,Wilhelm Conrad,Röntgen,physics,male,1845-03-27,DE,Germany
-1,1901,Emil,von Behring,medicine,male,1854-03-15,PL,Poland
-2,1901,Henry,Dunant,peace,male,1828-05-08,CH,Switzerland
-3,1901,Frédéric,Passy,peace,male,1822-05-20,FR,France
-4,1901,Sully,Prudhomme,literature,male,1839-03-16,FR,France
-5,1901,Jacobus H.,van 't Hoff,chemistry,male,1852-08-30,NL,the Netherlands
-6,1902,Emil,Fischer,chemistry,male,1852-10-09,DE,Germany
-7,1902,Theodor,Mommsen,literature,male,1817-11-30,DE,Germany
-8,1902,Albert,Gobat,peace,male,1843-05-21,CH,Switzerland
-9,1902,Élie,Ducommun,peace,male,1833-02-19,CH,Switzerland
-10,1902,Pieter,Zeeman,physics,male,1865-05-25,NL,the Netherlands
-11,1902,Ronald,Ross,medicine,male,1857-05-13,IN,India
-12,1902,Hendrik A.,Lorentz,physics,male,1853-07-18,NL,the Netherlands
-13,1903,Pierre,Curie,physics,male,1859-05-15,FR,France
-14,1903,Randal,Cremer,peace,male,1828-03-18,GB,United Kingdom
-15,1903,Henri,Becquerel,physics,male,1852-12-15,FR,France
-16,1903,Marie,Curie,physics,female,1867-11-07,PL,Poland
-17,1903,Niels Ryberg,Finsen,medicine,male,1860-12-15,DK,Denmark
-18,1903,Bjørnstjerne,Bjørnson,literature,male,1832-12-08,NO,Norway
-19,1903,Svante,Arrhenius,chemistry,male,1859-02-19,SE,Sweden
-20,1904,José,Echegaray,literature,male,1832-04-19,ES,Spain
-21,1904,Lord,Rayleigh,physics,male,1842-11-12,GB,United Kingdom
-23,1904,Sir William,Ramsay,chemistry,male,1852-10-02,GB,Scotland
-24,1904,Ivan,Pavlov,medicine,male,1849-09-14,RU,Russia
-25,1904,Frédéric,Mistral,literature,male,1830-09-08,FR,France
-26,1905,Adolf,von Baeyer,chemistry,male,1835-10-31,DE,Germany
-27,1905,Henryk,Sienkiewicz,literature,male,1846-05-05,PL,Poland
-28,1905,Philipp,Lenard,physics,male,1862-06-07,SK,Slovakia
-29,1905,Bertha,von Suttner,peace,female,1843-06-09,CZ,Czech Republic
-30,1905,Robert,Koch,medicine,male,1843-12-11,DE,Germany
-31,1906,Giosuè,Carducci,literature,male,1835-07-27,IT,Italy
-32,1906,Theodore,Roosevelt,peace,male,1858-10-27,US,USA
-33,1906,J.J.,Thomson,physics,male,1856-12-18,GB,United Kingdom
-34,1906,Santiago,Ramón y Cajal,medicine,male,1852-05-01,ES,Spain
-35,1906,Henri,Moissan,chemistry,male,1852-09-28,FR,France
-36,1906,Camillo,Golgi,medicine,male,1843-07-07,IT,Italy
-37,1907,Alphonse,Laveran,medicine,male,1845-06-18,FR,France
-38,1907,Eduard,Buchner,chemistry,male,1860-05-20,DE,Germany
-39,1907,Rudyard,Kipling,literature,male,1865-12-30,IN,India
-40,1907,Louis,Renault,peace,male,1843-05-21,FR,France
-41,1907,Ernesto Teodoro,Moneta,peace,male,1833-09-20,IT,Italy
-42,1907,Albert A.,Michelson,physics,male,1852-12-19,PL,Poland
-43,1908,Ernest,Rutherford,chemistry,male,1871-08-30,NZ,New Zealand
-44,1908,Rudolf,Eucken,literature,male,1846-01-05,DE,Germany
-45,1908,Fredrik,Bajer,peace,male,1837-04-21,DK,Denmark
-46,1908,Ilya,Mechnikov,medicine,male,1845-05-15,UA,Ukraine
-47,1908,Paul,Ehrlich,medicine,male,1854-03-14,PL,Poland
-48,1908,Klas Pontus,Arnoldson,peace,male,1844-10-27,SE,Sweden
-49,1908,Gabriel,Lippmann,physics,male,1845-08-16,LU,Luxembourg
-50,1909,Guglielmo,Marconi,physics,male,1874-04-25,IT,Italy
-51,1909,Theodor,Kocher,medicine,male,1841-08-25,CH,Switzerland
-52,1909,Selma,Lagerlöf,literature,female,1858-11-20,SE,Sweden
-53,1909,Wilhelm,Ostwald,chemistry,male,1853-09-02,LV,Latvia
-54,1909,Ferdinand,Braun,physics,male,1850-06-06,DE,Germany
-55,1909,Auguste,Beernaert,peace,male,1829-07-26,BE,Belgium
-56,1909,Paul Henri,d'Estournelles de Constant,peace,male,1852-11-22,FR,France
-57,1910,Paul,Heyse,literature,male,1830-03-15,DE,Germany
-59,1910,Johannes Diderik,van der Waals,physics,male,1837-11-23,NL,the Netherlands
-60,1910,Albrecht,Kossel,medicine,male,1853-09-16,DE,Germany
-61,1910,Otto,Wallach,chemistry,male,1847-03-27,RU,Russia
-62,1911,Alfred,Fried,peace,male,1864-11-11,AT,Austria
-63,1911,Tobias,Asser,peace,male,1838-04-28,NL,the Netherlands
-64,1911,Marie,Curie,chemistry,female,1867-11-07,PL,Poland
-65,1911,Wilhelm,Wien,physics,male,1864-01-13,RU,Russia
-66,1911,Maurice,Maeterlinck,literature,male,1862-08-29,BE,Belgium
-67,1911,Allvar,Gullstrand,medicine,male,1862-06-05,SE,Sweden
-68,1912,Gerhart,Hauptmann,literature,male,1862-11-15,PL,Poland
-69,1912,Alexis,Carrel,medicine,male,1873-06-28,FR,France
-70,1912,Paul,Sabatier,chemistry,male,1854-11-05,FR,France
-71,1912,Victor,Grignard,chemistry,male,1871-05-06,FR,France
-72,1912,Gustaf,Dalén,physics,male,1869-11-30,SE,Sweden
-73,1912,Elihu,Root,peace,male,1845-02-15,US,USA
-74,1913,Charles,Richet,medicine,male,1850-08-26,FR,France
-75,1913,Alfred,Werner,chemistry,male,1866-12-12,FR,France
-76,1913,Henri,La Fontaine,peace,male,1854-04-22,BE,Belgium
-77,1913,Rabindranath,Tagore,literature,male,1861-05-07,IN,India
-78,1913,Heike,Kamerlingh Onnes,physics,male,1853-09-21,NL,the Netherlands
-79,1914,Max,von Laue,physics,male,1879-10-09,DE,Germany
-80,1914,Robert,Bárány,medicine,male,1876-04-22,AT,Austria
-81,1914,Theodore W.,Richards,chemistry,male,1868-01-31,US,USA
-82,1915,William,Bragg,physics,male,1862-07-02,GB,United Kingdom
-83,1915,Lawrence,Bragg,physics,male,1890-03-31,AU,Australia
-84,1915,Richard,Willstätter,chemistry,male,1872-08-13,DE,Germany
-85,1915,Romain,Rolland,literature,male,1866-01-29,FR,France
-86,1916,Verner,von Heidenstam,literature,male,1859-07-06,SE,Sweden
-88,1917,Charles Glover,Barkla,physics,male,1877-06-07,GB,United Kingdom
-89,1917,Karl,Gjellerup,literature,male,1857-06-02,DK,Denmark
-90,1917,Henrik,Pontoppidan,literature,male,1857-07-24,DK,Denmark
-91,1918,Max,Planck,physics,male,1858-04-23,DE,Germany
-92,1918,Fritz,Haber,chemistry,male,1868-12-09,PL,Poland
-93,1919,Woodrow,Wilson,peace,male,1856-12-28,US,USA
-94,1919,Jules,Bordet,medicine,male,1870-06-13,BE,Belgium
-95,1919,Johannes,Stark,physics,male,1874-04-15,DE,Germany
-96,1919,Carl,Spitteler,literature,male,1845-04-24,CH,Switzerland
-97,1920,Charles Edouard,Guillaume,physics,male,1861-02-15,CH,Switzerland
-98,1920,Walther,Nernst,chemistry,male,1864-06-25,PL,Poland
-99,1920,August,Krogh,medicine,male,1874-11-15,DK,Denmark
-100,1920,Léon,Bourgeois,peace,male,1851-05-21,FR,France
-101,1920,Knut,Hamsun,literature,male,1859-08-04,NO,Norway
-102,1921,Anatole,France,literature,male,1844-04-16,FR,France
-103,1921,Hjalmar,Branting,peace,male,1860-11-23,SE,Sweden
-104,1921,Albert,Einstein,physics,male,1879-03-14,DE,Germany
-105,1921,Frederick,Soddy,chemistry,male,1877-09-02,GB,United Kingdom
-106,1921,Christian,Lange,peace,male,1869-09-17,NO,Norway
-107,1922,Niels,Bohr,physics,male,1885-10-07,DK,Denmark
-108,1922,Fridtjof,Nansen,peace,male,1861-10-10,NO,Norway
-109,1922,Francis W.,Aston,chemistry,male,1877-09-01,GB,United Kingdom
-110,1922,Otto,Meyerhof,medicine,male,1884-04-12,DE,Germany
-111,1922,Jacinto,Benavente,literature,male,1866-08-12,ES,Spain
-112,1922,Archibald V.,Hill,medicine,male,1886-09-26,GB,United Kingdom
-113,1923,Frederick G.,Banting,medicine,male,1891-11-14,CA,Canada
-114,1923,John,Macleod,medicine,male,1876-09-06,GB,Scotland
-115,1923,Robert A.,Millikan,physics,male,1868-03-22,US,USA
-116,1923,Fritz,Pregl,chemistry,male,1869-09-03,SI,Slovenia
-117,1923,William Butler,Yeats,literature,male,1865-06-13,IE,Ireland
-118,1924,Wladyslaw,Reymont,literature,male,1867-05-07,PL,Poland
-119,1924,Willem,Einthoven,medicine,male,1860-05-21,ID,Indonesia
-120,1924,Manne,Siegbahn,physics,male,1886-12-03,SE,Sweden
-121,1925,James,Franck,physics,male,1882-08-26,DE,Germany
-122,1925,Gustav,Hertz,physics,male,1887-07-22,DE,Germany
-123,1925,Sir Austen,Chamberlain,peace,male,1863-10-16,GB,United Kingdom
-124,1925,Charles G.,Dawes,peace,male,1865-08-27,US,USA
-125,1925,Richard,Zsigmondy,chemistry,male,1865-04-01,AT,Austria
-126,1925,George Bernard,Shaw,literature,male,1856-07-26,IE,Ireland
-127,1926,Gustav,Stresemann,peace,male,1878-05-10,DE,Germany
-128,1926,Aristide,Briand,peace,male,1862-03-28,FR,France
-129,1926,Grazia,Deledda,literature,female,1871-09-27,IT,Italy
-130,1926,Johannes,Fibiger,medicine,male,1867-04-23,DK,Denmark
-131,1926,Jean Baptiste,Perrin,physics,male,1870-09-30,FR,France
-132,1926,The,Svedberg,chemistry,male,1884-08-30,SE,Sweden
-133,1927,Henri,Bergson,literature,male,1859-10-18,FR,France
-134,1927,Ludwig,Quidde,peace,male,1858-03-23,DE,Germany
-135,1927,Arthur H.,Compton,physics,male,1892-09-10,US,USA
-136,1927,C.T.R.,Wilson,physics,male,1869-02-14,GB,Scotland
-137,1927,Julius,Wagner-Jauregg,medicine,male,1857-03-07,AT,Austria
-138,1927,Heinrich,Wieland,chemistry,male,1877-06-04,DE,Germany
-139,1927,Ferdinand,Buisson,peace,male,1841-12-20,FR,France
-140,1928,Charles,Nicolle,medicine,male,1866-09-21,FR,France
-141,1928,Adolf,Windaus,chemistry,male,1876-12-25,DE,Germany
-142,1928,Owen Willans,Richardson,physics,male,1879-04-26,GB,United Kingdom
-143,1928,Sigrid,Undset,literature,female,1882-05-20,DK,Denmark
-144,1929,Arthur,Harden,chemistry,male,1865-10-12,GB,United Kingdom
-145,1929,Hans,von Euler-Chelpin,chemistry,male,1873-02-15,DE,Germany
-146,1929,Christiaan,Eijkman,medicine,male,1858-08-11,NL,the Netherlands
-147,1929,Louis,de Broglie,physics,male,1892-08-15,FR,France
-148,1929,Thomas,Mann,literature,male,1875-06-06,DE,Germany
-149,1929,Sir Frederick,Hopkins,medicine,male,1861-06-20,GB,United Kingdom
-150,1929,Frank B.,Kellogg,peace,male,1856-12-22,US,USA
-151,1930,Sinclair,Lewis,literature,male,1885-02-07,US,USA
-152,1930,Karl,Landsteiner,medicine,male,1868-06-14,AT,Austria
-153,1930,Hans,Fischer,chemistry,male,1881-07-27,DE,Germany
-154,1930,Nathan,Söderblom,peace,male,1866-01-15,SE,Sweden
-155,1930,Sir Chandrasekhara Venkata,Raman,physics,male,1888-11-07,IN,India
-156,1931,Otto,Warburg,medicine,male,1883-10-08,DE,Germany
-157,1931,Carl,Bosch,chemistry,male,1874-08-27,DE,Germany
-158,1931,Friedrich,Bergius,chemistry,male,1884-10-11,PL,Poland
-159,1931,Erik Axel,Karlfeldt,literature,male,1864-07-20,SE,Sweden
-160,1931,Jane,Addams,peace,female,1860-09-06,US,USA
-161,1931,Nicholas Murray,Butler,peace,male,1862-04-02,US,USA
-162,1932,Edgar,Adrian,medicine,male,1889-11-30,GB,United Kingdom
-163,1932,Sir Charles,Sherrington,medicine,male,1857-11-27,GB,United Kingdom
-164,1932,Werner,Heisenberg,physics,male,05-12-1901,DE,Germany
-165,1932,John,Galsworthy,literature,male,1867-08-14,GB,United Kingdom
-166,1932,Irving,Langmuir,chemistry,male,1881-01-31,US,USA
-167,1933,Paul A.M.,Dirac,physics,male,08-08-1902,GB,United Kingdom
-168,1933,Erwin,Schrödinger,physics,male,1887-08-12,AT,Austria
-169,1933,Sir Norman,Angell,peace,male,1872-12-26,GB,United Kingdom
-170,1933,Thomas H.,Morgan,medicine,male,1866-09-25,US,USA
-171,1933,Ivan,Bunin,literature,male,1870-10-22,RU,Russia
-172,1934,George H.,Whipple,medicine,male,1878-08-28,US,USA
-173,1934,Harold C.,Urey,chemistry,male,1893-04-29,US,USA
-174,1934,Luigi,Pirandello,literature,male,1867-06-28,IT,Italy
-175,1934,George R.,Minot,medicine,male,1885-12-02,US,USA
-176,1934,William P.,Murphy,medicine,male,1892-02-06,US,USA
-177,1934,Arthur,Henderson,peace,male,1863-09-13,GB,Scotland
-178,1935,Frédéric,Joliot,chemistry,male,19-03-1900,FR,France
-179,1935,Irène,Joliot-Curie,chemistry,female,1897-09-12,FR,France
-180,1935,James,Chadwick,physics,male,1891-10-20,GB,United Kingdom
-181,1935,Hans,Spemann,medicine,male,1869-06-27,DE,Germany
-182,1935,Carl,von Ossietzky,peace,male,1889-10-03,DE,Germany
-183,1936,Peter,Debye,chemistry,male,1884-03-24,NL,the Netherlands
-184,1936,Otto,Loewi,medicine,male,1873-06-03,DE,Germany
-185,1936,Victor F.,Hess,physics,male,1883-06-24,AT,Austria
-186,1936,Sir Henry,Dale,medicine,male,1875-06-09,GB,United Kingdom
-187,1936,Carl D.,Anderson,physics,male,03-09-1905,US,USA
-188,1936,Carlos,Saavedra Lamas,peace,male,1878-11-01,AR,Argentina
-189,1936,Eugene,O'Neill,literature,male,1888-10-16,US,USA
-190,1937,George Paget,Thomson,physics,male,1892-05-03,GB,United Kingdom
-191,1937,Albert,Szent-Györgyi,medicine,male,1893-09-16,HU,Hungary
-192,1937,Norman,Haworth,chemistry,male,1883-03-19,GB,United Kingdom
-193,1937,Clinton,Davisson,physics,male,1881-10-22,US,USA
-194,1937,Robert,Cecil,peace,male,1864-09-14,GB,United Kingdom
-195,1937,Roger,Martin du Gard,literature,male,1881-03-23,FR,France
-196,1937,Paul,Karrer,chemistry,male,1889-04-21,RU,Russia
-197,1938,Enrico,Fermi,physics,male,29-09-1901,IT,Italy
-198,1938,Richard,Kuhn,chemistry,male,03-12-1900,AT,Austria
-199,1938,Corneille,Heymans,medicine,male,1892-03-28,BE,Belgium
-201,1938,Pearl,Buck,literature,female,1892-06-26,US,USA
-202,1939,Gerhard,Domagk,medicine,male,1895-10-30,PL,Poland
-203,1939,Ernest,Lawrence,physics,male,08-08-1901,US,USA
-204,1939,Leopold,Ruzicka,chemistry,male,1887-09-13,HR,Croatia
-205,1939,Adolf,Butenandt,chemistry,male,24-03-1903,DE,Germany
-206,1939,Frans Eemil,Sillanpää,literature,male,1888-09-16,FI,Finland
-207,1943,Henrik,Dam,medicine,male,1895-02-21,DK,Denmark
-208,1943,Edward A.,Doisy,medicine,male,1893-11-13,US,USA
-209,1943,George,de Hevesy,chemistry,male,1885-08-01,HU,Hungary
-210,1943,Otto,Stern,physics,male,1888-02-17,PL,Poland
-211,1944,Joseph,Erlanger,medicine,male,1874-01-05,US,USA
-212,1944,Johannes V.,Jensen,literature,male,1873-01-20,DK,Denmark
-213,1944,Herbert S.,Gasser,medicine,male,1888-07-05,US,USA
-214,1944,Otto,Hahn,chemistry,male,1879-03-08,DE,Germany
-216,1944,Isidor Isaac,Rabi,physics,male,1898-07-29,PL,Poland
-217,1945,Wolfgang,Pauli,physics,male,25-04-1900,AT,Austria
-218,1945,Gabriela,Mistral,literature,female,1889-04-07,CL,Chile
-219,1945,Artturi,Virtanen,chemistry,male,1895-01-15,FI,Finland
-220,1945,Cordell,Hull,peace,male,1871-10-02,US,USA
-221,1945,Sir Alexander,Fleming,medicine,male,1881-08-06,GB,Scotland
-222,1945,Ernst B.,Chain,medicine,male,19-06-1906,DE,Germany
-223,1945,Sir Howard,Florey,medicine,male,1898-09-24,AU,Australia
-224,1946,John R.,Mott,peace,male,1865-05-25,US,USA
-225,1946,Percy W.,Bridgman,physics,male,1882-04-21,US,USA
-226,1946,James B.,Sumner,chemistry,male,1887-11-19,US,USA
-227,1946,John H.,Northrop,chemistry,male,1891-07-05,US,USA
-228,1946,Wendell M.,Stanley,chemistry,male,16-08-1904,US,USA
-229,1946,Hermann J.,Muller,medicine,male,1890-12-21,US,USA
-230,1946,Emily Greene,Balch,peace,female,1867-01-08,US,USA
-231,1946,Hermann,Hesse,literature,male,1877-07-02,DE,Germany
-232,1947,Gerty,Cori,medicine,female,1896-08-15,CZ,Czech Republic
-233,1947,Bernardo,Houssay,medicine,male,1887-04-10,AR,Argentina
-234,1947,Edward V.,Appleton,physics,male,1892-09-06,GB,United Kingdom
-235,1947,André,Gide,literature,male,1869-11-22,FR,France
-236,1947,Sir Robert,Robinson,chemistry,male,1886-09-13,GB,United Kingdom
-239,1947,Carl,Cori,medicine,male,1896-12-05,CZ,Czech Republic
-240,1948,Paul,Müller,medicine,male,1899-01-12,CH,Switzerland
-241,1948,T.S.,Eliot,literature,male,1888-09-26,US,USA
-242,1948,Arne,Tiselius,chemistry,male,10-08-1902,SE,Sweden
-243,1948,Patrick M.S.,Blackett,physics,male,1897-11-18,GB,United Kingdom
-244,1949,Egas,Moniz,medicine,male,1874-11-29,PT,Portugal
-245,1949,William F.,Giauque,chemistry,male,1895-05-12,CA,Canada
-246,1949,Walter,Hess,medicine,male,1881-03-17,CH,Switzerland
-247,1949,William,Faulkner,literature,male,1897-09-25,US,USA
-248,1949,John,Boyd Orr,peace,male,1880-09-23,GB,Scotland
-249,1949,Hideki,Yukawa,physics,male,23-01-1907,JP,Japan
-250,1950,Bertrand,Russell,literature,male,1872-05-18,GB,United Kingdom
-251,1950,Ralph,Bunche,peace,male,07-08-1904,US,USA
-252,1950,Philip S.,Hench,medicine,male,1896-02-28,US,USA
-253,1950,Tadeus,Reichstein,medicine,male,1897-07-20,PL,Poland
-254,1950,Edward C.,Kendall,medicine,male,1886-03-08,US,USA
-255,1950,Kurt,Alder,chemistry,male,10-07-1902,PL,Poland
-256,1950,Cecil,Powell,physics,male,05-12-1903,GB,United Kingdom
-257,1950,Otto,Diels,chemistry,male,1876-01-23,DE,Germany
-258,1951,Léon,Jouhaux,peace,male,1879-07-01,FR,France
-259,1951,Pär,Lagerkvist,literature,male,1891-05-23,SE,Sweden
-260,1951,Ernest T.S.,Walton,physics,male,06-10-1903,IE,Ireland
-261,1951,John,Cockcroft,physics,male,1897-05-27,GB,United Kingdom
-262,1951,Edwin M.,McMillan,chemistry,male,18-09-1907,US,USA
-263,1951,Max,Theiler,medicine,male,1899-01-30,ZA,South Africa
-264,1951,Glenn T.,Seaborg,chemistry,male,19-04-1912,US,USA
-265,1952,Felix,Bloch,physics,male,23-10-1905,CH,Switzerland
-266,1952,Richard L.M.,Synge,chemistry,male,28-10-1914,GB,United Kingdom
-267,1952,Albert,Schweitzer,peace,male,1875-01-14,FR,France
-268,1952,Selman A.,Waksman,medicine,male,1888-07-22,UA,Ukraine
-269,1952,Archer J.P.,Martin,chemistry,male,01-03-1910,GB,United Kingdom
-270,1952,E. M.,Purcell,physics,male,30-08-1912,US,USA
-271,1952,François,Mauriac,literature,male,1885-10-11,FR,France
-272,1953,George C.,Marshall,peace,male,1880-12-31,US,USA
-273,1953,Hans,Krebs,medicine,male,25-08-1900,DE,Germany
-274,1953,Fritz,Lipmann,medicine,male,1899-06-12,RU,Russia
-275,1953,Frits,Zernike,physics,male,1888-07-16,NL,the Netherlands
-276,1953,Hermann,Staudinger,chemistry,male,1881-03-23,DE,Germany
-277,1953,Winston,Churchill,literature,male,1874-11-30,GB,United Kingdom
-278,1954,John F.,Enders,medicine,male,1897-02-10,US,USA
-279,1954,Thomas H.,Weller,medicine,male,15-06-1915,US,USA
-280,1954,Frederick C.,Robbins,medicine,male,25-08-1916,US,USA
-281,1954,Linus,Pauling,chemistry,male,28-02-1901,US,USA
-282,1954,Max,Born,physics,male,1882-12-11,PL,Poland
-283,1954,Walther,Bothe,physics,male,1891-01-08,DE,Germany
-284,1954,Ernest,Hemingway,literature,male,1899-07-21,US,USA
-286,1955,Halldór,Laxness,literature,male,23-04-1902,IS,Iceland
-287,1955,Polykarp,Kusch,physics,male,26-01-1911,DE,Germany
-288,1955,Willis E.,Lamb,physics,male,12-07-1913,US,USA
-289,1955,Hugo,Theorell,medicine,male,06-07-1903,SE,Sweden
-290,1955,Vincent,du Vigneaud,chemistry,male,18-05-1901,US,USA
-291,1956,Werner,Forssmann,medicine,male,29-08-1904,DE,Germany
-292,1956,André F.,Cournand,medicine,male,1895-09-24,FR,France
-293,1956,Walter H.,Brattain,physics,male,10-02-1902,CN,China
-294,1956,Nikolay,Semenov,chemistry,male,1896-04-03,RU,Russia
-295,1956,Sir Cyril,Hinshelwood,chemistry,male,1897-05-19,GB,United Kingdom
-296,1956,John,Bardeen,physics,male,23-05-1908,US,USA
-297,1956,William B.,Shockley,physics,male,13-02-1910,GB,United Kingdom
-298,1956,Dickinson W.,Richards,medicine,male,1895-10-30,US,USA
-299,1956,Juan Ramón,Jiménez,literature,male,1881-12-24,ES,Spain
-300,1957,Chen Ning,Yang,physics,male,22-09-1922,CN,China
-301,1957,Lester Bowles,Pearson,peace,male,1897-04-23,CA,Canada
-302,1957,Lord,Todd,chemistry,male,02-10-1907,GB,Scotland
-303,1957,Tsung-Dao,Lee,physics,male,24-11-1926,CN,China
-304,1957,Albert,Camus,literature,male,07-11-1913,DZ,Algeria
-305,1957,Daniel,Bovet,medicine,male,23-03-1907,CH,Switzerland
-306,1958,Frederick,Sanger,chemistry,male,13-08-1918,GB,United Kingdom
-307,1958,Georges,Pire,peace,male,10-02-1910,BE,Belgium
-308,1958,Edward,Tatum,medicine,male,14-12-1909,US,USA
-309,1958,Joshua,Lederberg,medicine,male,23-05-1925,US,USA
-310,1958,Boris,Pasternak,literature,male,1890-02-10,RU,Russia
-311,1958,Il´ja M.,Frank,physics,male,23-10-1908,RU,Russia
-312,1958,Igor Y.,Tamm,physics,male,1895-07-08,RU,Russia
-313,1958,Pavel A.,Cherenkov,physics,male,28-07-1904,RU,Russia
-314,1958,George,Beadle,medicine,male,22-10-1903,US,USA
-315,1959,Arthur,Kornberg,medicine,male,03-03-1918,US,USA
-316,1959,Jaroslav,Heyrovsky,chemistry,male,1890-12-20,CZ,Czech Republic
-317,1959,Owen,Chamberlain,physics,male,10-07-1920,US,USA
-318,1959,Emilio,Segrè,physics,male,01-02-1905,IT,Italy
-319,1959,Severo,Ochoa,medicine,male,24-09-1905,ES,Spain
-320,1959,Philip,Noel-Baker,peace,male,1889-11-01,GB,United Kingdom
-321,1959,Salvatore,Quasimodo,literature,male,20-08-1901,IT,Italy
-322,1960,Peter,Medawar,medicine,male,28-02-1915,BR,Brazil
-323,1960,Donald A.,Glaser,physics,male,21-09-1926,US,USA
-324,1960,Sir Frank Macfarlane,Burnet,medicine,male,1899-09-03,AU,Australia
-325,1960,Saint-John,Perse,literature,male,1887-05-31,GP,Guadeloupe Island
-326,1960,Albert,Lutuli,peace,male,1898-00-00,ZW,Zimbabwe
-327,1960,Willard F.,Libby,chemistry,male,17-12-1908,US,USA
-328,1961,Rudolf,Mössbauer,physics,male,31-01-1929,DE,Germany
-329,1961,Dag,Hammarskjöld,peace,male,29-07-1905,SE,Sweden
-330,1961,Georg,von Békésy,medicine,male,1899-06-03,HU,Hungary
-331,1961,Ivo,Andric,literature,male,1892-10-10,BA,Bosnia and Herzegovina
-332,1961,Melvin,Calvin,chemistry,male,08-04-1911,US,USA
-333,1961,Robert,Hofstadter,physics,male,05-02-1915,US,USA
-334,1962,Maurice,Wilkins,medicine,male,15-12-1916,NZ,New Zealand
-335,1962,James,Watson,medicine,male,06-04-1928,US,USA
-336,1962,Francis,Crick,medicine,male,08-06-1916,GB,United Kingdom
-337,1962,Linus,Pauling,peace,male,28-02-1901,US,USA
-338,1962,John C.,Kendrew,chemistry,male,24-03-1917,GB,United Kingdom
-339,1962,Max F.,Perutz,chemistry,male,19-05-1914,AT,Austria
-340,1962,Lev,Landau,physics,male,22-01-1908,AZ,Azerbaijan
-341,1962,John,Steinbeck,literature,male,27-02-1902,US,USA
-342,1963,Andrew,Huxley,medicine,male,22-11-1917,GB,United Kingdom
-343,1963,Alan,Hodgkin,medicine,male,05-02-1914,GB,United Kingdom
-344,1963,Sir John,Eccles,medicine,male,27-01-1903,AU,Australia
-345,1963,J. Hans D.,Jensen,physics,male,25-06-1907,DE,Germany
-346,1963,Eugene,Wigner,physics,male,17-11-1902,HU,Hungary
-349,1963,Giorgos,Seferis,literature,male,13-03-1900,TR,Turkey
-350,1963,Maria,Goeppert Mayer,physics,female,28-06-1906,PL,Poland
-351,1963,Karl,Ziegler,chemistry,male,1898-11-26,DE,Germany
-352,1963,Giulio,Natta,chemistry,male,26-02-1903,IT,Italy
-353,1964,Nicolay G.,Basov,physics,male,14-12-1922,RU,Russia
-354,1964,Jean-Paul,Sartre,literature,male,21-06-1905,FR,France
-355,1964,Martin Luther,King Jr.,peace,male,15-01-1929,US,USA
-356,1964,Aleksandr M.,Prokhorov,physics,male,11-07-1916,AU,Australia
-357,1964,Feodor,Lynen,medicine,male,06-04-1911,DE,Germany
-358,1964,Charles H.,Townes,physics,male,28-07-1915,US,USA
-359,1964,Konrad,Bloch,medicine,male,21-01-1912,PL,Poland
-360,1964,Dorothy Crowfoot,Hodgkin,chemistry,female,12-05-1910,EG,Egypt
-361,1965,Robert B.,Woodward,chemistry,male,10-04-1917,US,USA
-362,1965,François,Jacob,medicine,male,17-06-1920,FR,France
-363,1965,André,Lwoff,medicine,male,08-05-1902,FR,France
-364,1965,Jacques,Monod,medicine,male,09-02-1910,FR,France
-366,1965,Sin-Itiro,Tomonaga,physics,male,31-03-1906,JP,Japan
-367,1965,Mikhail,Sholokhov,literature,male,24-05-1905,RU,Russia
-368,1965,Julian,Schwinger,physics,male,12-02-1918,US,USA
-369,1965,Richard P.,Feynman,physics,male,11-05-1918,US,USA
-370,1966,Charles B.,Huggins,medicine,male,22-09-1901,CA,Canada
-371,1966,Shmuel,Agnon,literature,male,1888-07-17,UA,Ukraine
-372,1966,Robert S.,Mulliken,chemistry,male,1896-06-07,US,USA
-373,1966,Peyton,Rous,medicine,male,1879-10-05,US,USA
-374,1966,Nelly,Sachs,literature,female,1891-12-10,DE,Germany
-375,1966,Alfred,Kastler,physics,male,03-05-1902,FR,France
-376,1967,Ragnar,Granit,medicine,male,30-10-1900,FI,Finland
-377,1967,George,Wald,medicine,male,18-11-1906,US,USA
-378,1967,George,Porter,chemistry,male,06-12-1920,GB,United Kingdom
-379,1967,Miguel Angel,Asturias,literature,male,1899-10-19,GT,Guatemala
-380,1967,Ronald G.W.,Norrish,chemistry,male,1897-11-09,GB,United Kingdom
-381,1967,Manfred,Eigen,chemistry,male,09-05-1927,DE,Germany
-382,1967,Keffer,Hartline,medicine,male,22-12-1903,US,USA
-383,1967,Hans,Bethe,physics,male,02-07-1906,FR,France
-384,1968,H. Gobind,Khorana,medicine,male,09-01-1922,IN,India
-385,1968,Marshall W.,Nirenberg,medicine,male,10-04-1927,US,USA
-386,1968,Lars,Onsager,chemistry,male,27-11-1903,NO,Norway
-387,1968,René,Cassin,peace,male,1887-10-05,FR,France
-388,1968,Robert W.,Holley,medicine,male,28-01-1922,US,USA
-389,1968,Luis,Alvarez,physics,male,13-06-1911,US,USA
-390,1968,Yasunari,Kawabata,literature,male,1899-06-11,JP,Japan
-391,1969,Derek,Barton,chemistry,male,08-09-1918,GB,United Kingdom
-392,1969,Samuel,Beckett,literature,male,13-04-1906,IE,Ireland
-393,1969,Ragnar,Frisch,economics,male,1895-03-03,NO,Norway
-394,1969,Murray,Gell-Mann,physics,male,15-09-1929,US,USA
-395,1969,Jan,Tinbergen,economics,male,12-04-1903,NL,the Netherlands
-397,1969,Salvador E.,Luria,medicine,male,13-08-1912,IT,Italy
-398,1969,Alfred D.,Hershey,medicine,male,04-12-1908,US,USA
-399,1969,Max,Delbrück,medicine,male,04-09-1906,DE,Germany
-400,1969,Odd,Hassel,chemistry,male,1897-05-17,NO,Norway
-401,1970,Hannes,Alfvén,physics,male,30-05-1908,SE,Sweden
-402,1970,Louis,Néel,physics,male,22-11-1904,FR,France
-403,1970,Norman,Borlaug,peace,male,25-03-1914,US,USA
-404,1970,Luis,Leloir,chemistry,male,06-09-1906,FR,France
-405,1970,Alexandr,Solzhenitsyn,literature,male,11-12-1918,RU,Russia
-406,1970,Paul A.,Samuelson,economics,male,15-05-1915,US,USA
-407,1970,Julius,Axelrod,medicine,male,30-05-1912,US,USA
-408,1970,Ulf,von Euler,medicine,male,07-02-1905,SE,Sweden
-409,1970,Sir Bernard,Katz,medicine,male,26-03-1911,DE,Germany
-410,1971,Willy,Brandt,peace,male,18-12-1913,DE,Germany
-411,1971,Dennis,Gabor,physics,male,05-06-1900,HU,Hungary
-412,1971,Simon,Kuznets,economics,male,30-04-1901,BY,Belarus
-413,1971,Gerhard,Herzberg,chemistry,male,25-12-1904,DE,Germany
-414,1971,Earl W.,Sutherland Jr.,medicine,male,19-11-1915,US,USA
-415,1971,Pablo,Neruda,literature,male,12-07-1904,CL,Chile
-416,1972,Heinrich,Böll,literature,male,21-12-1917,DE,Germany
-417,1972,Gerald M.,Edelman,medicine,male,01-07-1929,US,USA
-418,1972,Leon N.,Cooper,physics,male,28-02-1930,US,USA
-419,1972,Stanford,Moore,chemistry,male,04-09-1913,US,USA
-420,1972,Christian,Anfinsen,chemistry,male,26-03-1916,US,USA
-421,1972,William H.,Stein,chemistry,male,25-06-1911,US,USA
-422,1972,John,Bardeen,physics,male,23-05-1908,US,USA
-423,1972,Kenneth J.,Arrow,economics,male,23-08-1921,US,USA
-424,1972,John R.,Hicks,economics,male,08-04-1904,GB,United Kingdom
-425,1972,Robert,Schrieffer,physics,male,31-05-1931,US,USA
-426,1972,Rodney R.,Porter,medicine,male,08-10-1917,GB,United Kingdom
-427,1973,Brian D.,Josephson,physics,male,04-01-1940,GB,United Kingdom
-428,1973,Ernst Otto,Fischer,chemistry,male,10-11-1918,DE,Germany
-429,1973,Geoffrey,Wilkinson,chemistry,male,14-07-1921,GB,United Kingdom
-430,1973,Le Duc Tho,,peace,male,14-10-1911,VN,Vietnam
-431,1973,Wassily,Leontief,economics,male,05-08-1906,RU,Russia
-432,1973,Konrad,Lorenz,medicine,male,07-11-1903,AT,Austria
-433,1973,Leo,Esaki,physics,male,12-03-1925,JP,Japan
-434,1973,Ivar,Giaever,physics,male,05-04-1929,NO,Norway
-435,1973,Karl,von Frisch,medicine,male,1886-11-20,AT,Austria
-436,1973,Patrick,White,literature,male,28-05-1912,GB,United Kingdom
-437,1973,Henry,Kissinger,peace,male,27-05-1923,DE,Germany
-438,1973,Nikolaas,Tinbergen,medicine,male,15-04-1907,NL,the Netherlands
-439,1974,Paul J.,Flory,chemistry,male,19-06-1910,US,USA
-440,1974,Eyvind,Johnson,literature,male,29-07-1900,SE,Sweden
-441,1974,Gunnar,Myrdal,economics,male,1898-12-06,SE,Sweden
-442,1974,Harry,Martinson,literature,male,06-05-1904,SE,Sweden
-443,1974,Christian,de Duve,medicine,male,02-10-1917,GB,United Kingdom
-444,1974,Antony,Hewish,physics,male,11-05-1924,GB,United Kingdom
-445,1974,Martin,Ryle,physics,male,27-09-1918,GB,United Kingdom
-446,1974,George E.,Palade,medicine,male,19-11-1912,RO,Romania
-447,1974,Eisaku,Sato,peace,male,27-03-1901,JP,Japan
-448,1974,Seán,MacBride,peace,male,26-01-1904,FR,France
-449,1974,Friedrich,von Hayek,economics,male,1899-05-08,AT,Austria
-450,1974,Albert,Claude,medicine,male,1898-08-24,BE,Belgium
-451,1975,John,Cornforth,chemistry,male,07-09-1917,AU,Australia
-452,1975,Vladimir,Prelog,chemistry,male,23-07-1906,BA,Bosnia and Herzegovina
-453,1975,Howard M.,Temin,medicine,male,10-12-1934,US,USA
-454,1975,Aage N.,Bohr,physics,male,19-06-1922,DK,Denmark
-455,1975,Ben R.,Mottelson,physics,male,09-07-1926,US,USA
-456,1975,James,Rainwater,physics,male,09-12-1917,US,USA
-457,1975,Tjalling C.,Koopmans,economics,male,28-08-1910,NL,the Netherlands
-458,1975,Leonid Vitaliyevich,Kantorovich,economics,male,19-01-1912,RU,Russia
-459,1975,Eugenio,Montale,literature,male,1896-10-12,IT,Italy
-460,1975,David,Baltimore,medicine,male,07-03-1938,US,USA
-461,1975,Renato,Dulbecco,medicine,male,22-02-1914,IT,Italy
-462,1975,Andrei,Sakharov,peace,male,21-05-1921,RU,Russia
-463,1976,Milton,Friedman,economics,male,31-07-1912,US,USA
-464,1976,William,Lipscomb,chemistry,male,09-12-1919,US,USA
-465,1976,Mairead,Corrigan,peace,female,27-01-1944,GB,Northern Ireland
-466,1976,Burton,Richter,physics,male,22-03-1931,US,USA
-467,1976,Samuel C.C.,Ting,physics,male,27-01-1936,US,USA
-468,1976,Baruch S.,Blumberg,medicine,male,28-07-1925,US,USA
-469,1976,D. Carleton,Gajdusek,medicine,male,09-09-1923,US,USA
-470,1976,Betty,Williams,peace,female,22-05-1943,GB,Northern Ireland
-471,1976,Saul,Bellow,literature,male,10-06-1915,CA,Canada
-472,1977,Philip W.,Anderson,physics,male,13-12-1923,US,USA
-473,1977,James E.,Meade,economics,male,23-06-1907,GB,United Kingdom
-474,1977,Bertil,Ohlin,economics,male,1899-04-23,SE,Sweden
-475,1977,Sir Nevill F.,Mott,physics,male,30-09-1905,GB,United Kingdom
-476,1977,John H.,Van Vleck,physics,male,1899-03-13,US,USA
-477,1977,Andrew V.,Schally,medicine,male,30-11-1926,LT,Lithuania
-478,1977,Rosalyn,Yalow,medicine,female,19-07-1921,US,USA
-479,1977,Ilya,Prigogine,chemistry,male,25-01-1917,RU,Russia
-480,1977,Roger,Guillemin,medicine,male,11-01-1924,FR,France
-482,1977,Vicente,Aleixandre,literature,male,1898-04-26,ES,Spain
-483,1978,Anwar,al-Sadat,peace,male,25-12-1918,EG,Egypt
-484,1978,Menachem,Begin,peace,male,16-08-1913,BY,Belarus
-485,1978,Arno,Penzias,physics,male,26-04-1933,DE,Germany
-486,1978,Hamilton O.,Smith,medicine,male,23-08-1931,US,USA
-487,1978,Daniel,Nathans,medicine,male,30-10-1928,US,USA
-488,1978,Werner,Arber,medicine,male,03-06-1929,CH,Switzerland
-489,1978,Robert Woodrow,Wilson,physics,male,10-01-1936,US,USA
-490,1978,Isaac Bashevis,Singer,literature,male,14-07-1904,PL,Poland
-491,1978,Herbert,Simon,economics,male,15-06-1916,US,USA
-492,1978,Pyotr,Kapitsa,physics,male,1894-07-09,RU,Russia
-493,1978,Peter,Mitchell,chemistry,male,29-09-1920,GB,United Kingdom
-494,1979,Georg,Wittig,chemistry,male,1897-06-16,DE,Germany
-495,1979,Theodore W.,Schultz,economics,male,30-04-1902,US,USA
-496,1979,Sir Arthur,Lewis,economics,male,23-01-1915,LC,Saint Lucia
-497,1979,Anjezë Gonxhe,Bojaxhiu,peace,female,26-08-1910,MK,North Macedonia
-498,1979,Herbert C.,Brown,chemistry,male,22-05-1912,GB,United Kingdom
-499,1979,Sheldon,Glashow,physics,male,05-12-1932,US,USA
-500,1979,Steven,Weinberg,physics,male,03-05-1933,US,USA
-501,1979,Godfrey N.,Hounsfield,medicine,male,28-08-1919,GB,United Kingdom
-502,1979,Allan M.,Cormack,medicine,male,23-02-1924,ZA,South Africa
-503,1979,Odysseus,Elytis,literature,male,02-11-1911,GR,Greece
-504,1979,Abdus,Salam,physics,male,29-01-1926,PK,Pakistan
-505,1980,Frederick,Sanger,chemistry,male,13-08-1918,GB,United Kingdom
-506,1980,Jean,Dausset,medicine,male,19-10-1916,FR,France
-507,1980,Baruj,Benacerraf,medicine,male,29-10-1920,VE,Venezuela
-508,1980,Lawrence R.,Klein,economics,male,14-09-1920,US,USA
-509,1980,Paul,Berg,chemistry,male,30-06-1926,US,USA
-510,1980,Adolfo,Pérez Esquivel,peace,male,26-11-1931,AR,Argentina
-511,1980,Walter,Gilbert,chemistry,male,21-03-1932,US,USA
-512,1980,Val,Fitch,physics,male,10-03-1923,US,USA
-513,1980,James,Cronin,physics,male,29-09-1931,US,USA
-514,1980,Czeslaw,Milosz,literature,male,30-06-1911,LT,Lithuania
-515,1980,George D.,Snell,medicine,male,19-12-1903,US,USA
-516,1981,James,Tobin,economics,male,05-03-1918,US,USA
-517,1981,Elias,Canetti,literature,male,25-07-1905,BG,Bulgaria
-518,1981,David H.,Hubel,medicine,male,27-02-1926,CA,Canada
-519,1981,Nicolaas,Bloembergen,physics,male,11-03-1920,NL,the Netherlands
-521,1981,Roger W.,Sperry,medicine,male,20-08-1913,US,USA
-522,1981,Kenichi,Fukui,chemistry,male,04-10-1918,JP,Japan
-523,1981,Roald,Hoffmann,chemistry,male,18-07-1937,UA,Ukraine
-524,1981,Torsten N.,Wiesel,medicine,male,03-06-1924,SE,Sweden
-525,1981,Arthur L.,Schawlow,physics,male,05-05-1921,US,USA
-526,1981,Kai M.,Siegbahn,physics,male,20-04-1918,SE,Sweden
-527,1982,George J.,Stigler,economics,male,17-01-1911,US,USA
-528,1982,Alva,Myrdal,peace,female,31-01-1902,SE,Sweden
-529,1982,Gabriel,García Márquez,literature,male,06-03-1927,CO,Colombia
-530,1982,John R.,Vane,medicine,male,29-03-1927,GB,United Kingdom
-531,1982,Aaron,Klug,chemistry,male,11-08-1926,LT,Lithuania
-532,1982,Sune K.,Bergström,medicine,male,10-01-1916,SE,Sweden
-533,1982,Kenneth G.,Wilson,physics,male,08-06-1936,US,USA
-534,1982,Alfonso,García Robles,peace,male,20-03-1911,MX,Mexico
-535,1982,Bengt I.,Samuelsson,medicine,male,21-05-1934,SE,Sweden
-536,1983,Lech,Walesa,peace,male,29-09-1943,PL,Poland
-537,1983,Henry,Taube,chemistry,male,30-11-1915,CA,Canada
-538,1983,Barbara,McClintock,medicine,female,16-06-1902,US,USA
-539,1983,Gerard,Debreu,economics,male,04-07-1921,FR,France
-540,1983,William,Golding,literature,male,19-09-1911,GB,United Kingdom
-541,1983,William A.,Fowler,physics,male,09-08-1911,US,USA
-542,1983,Subramanyan,Chandrasekhar,physics,male,19-10-1910,PK,Pakistan
-543,1984,Niels K.,Jerne,medicine,male,23-12-1911,GB,United Kingdom
-544,1984,Georges J.F.,Köhler,medicine,male,17-04-1946,DE,Germany
-545,1984,César,Milstein,medicine,male,08-10-1927,AR,Argentina
-546,1984,Jaroslav,Seifert,literature,male,23-09-1901,CZ,Czech Republic
-547,1984,Desmond,Tutu,peace,male,07-10-1931,ZA,South Africa
-548,1984,Bruce,Merrifield,chemistry,male,15-07-1921,US,USA
-549,1984,Simon,van der Meer,physics,male,24-11-1925,NL,the Netherlands
-550,1984,Carlo,Rubbia,physics,male,31-03-1934,IT,Italy
-551,1984,Richard,Stone,economics,male,30-08-1913,GB,United Kingdom
-553,1985,Klaus,von Klitzing,physics,male,28-06-1943,PL,Poland
-554,1985,Joseph L.,Goldstein,medicine,male,18-04-1940,US,USA
-555,1985,Michael S.,Brown,medicine,male,13-04-1941,US,USA
-556,1985,Herbert A.,Hauptman,chemistry,male,14-02-1917,US,USA
-557,1985,Jerome,Karle,chemistry,male,18-06-1918,US,USA
-558,1985,Claude,Simon,literature,male,10-10-1913,MG,Madagascar
-559,1985,Franco,Modigliani,economics,male,18-06-1918,IT,Italy
-560,1986,Dudley R.,Herschbach,chemistry,male,18-06-1932,US,USA
-561,1986,John C.,Polanyi,chemistry,male,23-01-1929,DE,Germany
-562,1986,Gerd,Binnig,physics,male,20-07-1947,DE,Germany
-563,1986,Heinrich,Rohrer,physics,male,06-06-1933,CH,Switzerland
-564,1986,Ernst,Ruska,physics,male,25-12-1906,DE,Germany
-565,1986,Yuan T.,Lee,chemistry,male,19-11-1936,TW,Taiwan
-566,1986,Rita,Levi-Montalcini,medicine,female,22-04-1909,IT,Italy
-567,1986,Stanley,Cohen,medicine,male,17-11-1922,US,USA
-568,1986,Elie,Wiesel,peace,male,30-09-1928,RO,Romania
-569,1986,Wole,Soyinka,literature,male,13-07-1934,NG,Nigeria
-570,1986,James M.,Buchanan Jr.,economics,male,03-10-1919,US,USA
-571,1987,Charles J.,Pedersen,chemistry,male,03-10-1904,KR,South Korea
-572,1987,Joseph,Brodsky,literature,male,24-05-1940,RU,Russia
-573,1987,K. Alex,Müller,physics,male,20-04-1927,CH,Switzerland
-574,1987,Jean-Marie,Lehn,chemistry,male,30-09-1939,FR,France
-575,1987,J. Georg,Bednorz,physics,male,16-05-1950,DE,Germany
-576,1987,Susumu,Tonegawa,medicine,male,05-09-1939,JP,Japan
-577,1987,Robert M.,Solow,economics,male,23-08-1924,US,USA
-578,1987,Oscar,Arias Sánchez,peace,male,13-09-1940,CR,Costa Rica
-579,1987,Donald J.,Cram,chemistry,male,22-04-1919,US,USA
-581,1988,Jack,Steinberger,physics,male,25-05-1921,DE,Germany
-582,1988,Melvin,Schwartz,physics,male,02-11-1932,US,USA
-583,1988,Leon M.,Lederman,physics,male,15-07-1922,US,USA
-584,1988,George H.,Hitchings,medicine,male,18-04-1905,US,USA
-585,1988,Hartmut,Michel,chemistry,male,18-07-1948,DE,Germany
-586,1988,Robert,Huber,chemistry,male,20-02-1937,DE,Germany
-587,1988,Johann,Deisenhofer,chemistry,male,30-09-1943,DE,Germany
-588,1988,Naguib,Mahfouz,literature,male,11-12-1911,EG,Egypt
-589,1988,Sir James W.,Black,medicine,male,14-06-1924,GB,Scotland
-590,1988,Gertrude B.,Elion,medicine,female,23-01-1918,US,USA
-591,1988,Maurice,Allais,economics,male,31-05-1911,FR,France
-592,1989,Thomas R.,Cech,chemistry,male,08-12-1947,US,USA
-593,1989,Sidney,Altman,chemistry,male,07-05-1939,CA,Canada
-594,1989,Hans G.,Dehmelt,physics,male,09-09-1922,DE,Germany
-595,1989,Norman F.,Ramsey,physics,male,27-08-1915,US,USA
-596,1989,J. Michael,Bishop,medicine,male,22-02-1936,US,USA
-597,1989,Wolfgang,Paul,physics,male,10-08-1913,DE,Germany
-598,1989,Trygve,Haavelmo,economics,male,13-12-1911,NO,Norway
-599,1989,Camilo José,Cela,literature,male,11-05-1916,ES,Spain
-600,1989,Lhamo,Thondup,peace,male,06-07-1935,CN,China
-601,1989,Harold E.,Varmus,medicine,male,18-12-1939,US,USA
-602,1990,Octavio,Paz,literature,male,31-03-1914,MX,Mexico
-603,1990,Richard E.,Taylor,physics,male,02-11-1929,CA,Canada
-604,1990,Henry W.,Kendall,physics,male,09-12-1926,US,USA
-605,1990,Jerome I.,Friedman,physics,male,28-03-1930,US,USA
-606,1990,Harry M.,Markowitz,economics,male,24-08-1927,US,USA
-607,1990,Merton H.,Miller,economics,male,16-05-1923,US,USA
-608,1990,Joseph E.,Murray,medicine,male,01-04-1919,US,USA
-609,1990,Mikhail,Gorbachev,peace,male,02-03-1931,RU,Russia
-610,1990,E. Donnall,Thomas,medicine,male,15-03-1920,US,USA
-611,1990,William F.,Sharpe,economics,male,16-06-1934,US,USA
-612,1990,Elias James,Corey,chemistry,male,12-07-1928,US,USA
-613,1991,Ronald H.,Coase,economics,male,29-12-1910,GB,United Kingdom
-614,1991,Nadine,Gordimer,literature,female,20-11-1923,ZA,South Africa
-615,1991,Bert,Sakmann,medicine,male,12-06-1942,DE,Germany
-616,1991,Pierre-Gilles,de Gennes,physics,male,24-10-1932,FR,France
-617,1991,Aung San Suu Kyi,,peace,female,19-06-1945,MM,Myanmar
-618,1991,Erwin,Neher,medicine,male,20-03-1944,DE,Germany
-619,1991,Richard R.,Ernst,chemistry,male,14-08-1933,CH,Switzerland
-620,1992,Derek,Walcott,literature,male,23-01-1930,LC,Saint Lucia
-621,1992,Edmond H.,Fischer,medicine,male,06-04-1920,CN,China
-622,1992,Rudolph A.,Marcus,chemistry,male,21-07-1923,CA,Canada
-623,1992,Gary,Becker,economics,male,02-12-1930,US,USA
-624,1992,Rigoberta,Menchú Tum,peace,female,09-01-1959,GT,Guatemala
-625,1992,Georges,Charpak,physics,male,01-08-1924,PL,Poland
-626,1992,Edwin G.,Krebs,medicine,male,06-06-1918,US,USA
-627,1993,Russell A.,Hulse,physics,male,28-11-1950,US,USA
-628,1993,Joseph H.,Taylor Jr.,physics,male,29-03-1941,US,USA
-629,1993,Toni,Morrison,literature,female,18-02-1931,US,USA
-630,1993,Douglass C.,North,economics,male,05-11-1920,US,USA
-631,1993,Michael,Smith,chemistry,male,26-04-1932,GB,United Kingdom
-632,1993,Phillip A.,Sharp,medicine,male,06-06-1944,US,USA
-633,1993,Richard J.,Roberts,medicine,male,06-09-1943,GB,United Kingdom
-634,1993,Kary B.,Mullis,chemistry,male,28-12-1944,US,USA
-635,1993,F.W.,de Klerk,peace,male,18-03-1936,ZA,South Africa
-636,1993,Robert W.,Fogel,economics,male,01-07-1927,US,USA
-637,1993,Nelson,Mandela,peace,male,18-07-1918,ZA,South Africa
-638,1994,Alfred G.,Gilman,medicine,male,01-07-1941,US,USA
-639,1994,Martin,Rodbell,medicine,male,01-12-1925,US,USA
-640,1994,George A.,Olah,chemistry,male,22-05-1927,HU,Hungary
-641,1994,Bertram N.,Brockhouse,physics,male,15-07-1918,CA,Canada
-642,1994,Clifford G.,Shull,physics,male,23-09-1915,US,USA
-643,1994,Kenzaburo,Oe,literature,male,31-01-1935,JP,Japan
-644,1994,Yasser,Arafat,peace,male,24-08-1929,EG,Egypt
-645,1994,Yitzhak,Rabin,peace,male,01-03-1922,IL,Israel
-646,1994,Shimon,Peres,peace,male,16-08-1923,BY,Belarus
-647,1994,John C.,Harsanyi,economics,male,29-05-1920,HU,Hungary
-648,1994,John F.,Nash Jr.,economics,male,13-06-1928,US,USA
-649,1994,Reinhard,Selten,economics,male,05-10-1930,PL,Poland
-650,1995,Frederick,Reines,physics,male,16-03-1918,US,USA
-651,1995,Edward B.,Lewis,medicine,male,20-05-1918,US,USA
-652,1995,Paul J.,Crutzen,chemistry,male,03-12-1933,NL,the Netherlands
-653,1995,Mario J.,Molina,chemistry,male,19-03-1943,MX,Mexico
-654,1995,Robert E.,Lucas Jr.,economics,male,15-09-1937,US,USA
-655,1995,Seamus,Heaney,literature,male,13-04-1939,GB,Northern Ireland
-656,1995,F. Sherwood,Rowland,chemistry,male,28-06-1927,US,USA
-657,1995,Christiane,Nüsslein-Volhard,medicine,female,20-10-1942,DE,Germany
-658,1995,Joseph,Rotblat,peace,male,04-11-1908,PL,Poland
-660,1995,Martin L.,Perl,physics,male,24-06-1927,US,USA
-661,1995,Eric F.,Wieschaus,medicine,male,08-06-1947,US,USA
-662,1996,David M.,Lee,physics,male,20-01-1931,US,USA
-663,1996,Robert C.,Richardson,physics,male,26-06-1937,US,USA
-664,1996,Douglas D.,Osheroff,physics,male,01-08-1945,US,USA
-665,1996,Peter C.,Doherty,medicine,male,15-10-1940,AU,Australia
-666,1996,Rolf M.,Zinkernagel,medicine,male,06-01-1944,CH,Switzerland
-667,1996,Richard E.,Smalley,chemistry,male,06-06-1943,US,USA
-668,1996,Wislawa,Szymborska,literature,female,02-07-1923,PL,Poland
-669,1996,Carlos Filipe Ximenes,Belo,peace,male,03-02-1948,TL,East Timor
-670,1996,José,Ramos-Horta,peace,male,26-12-1949,TL,East Timor
-671,1996,Robert F.,Curl Jr.,chemistry,male,23-08-1933,US,USA
-672,1996,William,Vickrey,economics,male,21-06-1914,CA,Canada
-673,1996,Sir Harold,Kroto,chemistry,male,07-10-1939,GB,United Kingdom
-674,1996,James A.,Mirrlees,economics,male,05-07-1936,GB,Scotland
-675,1997,Dario,Fo,literature,male,24-03-1926,IT,Italy
-676,1997,John E.,Walker,chemistry,male,07-01-1941,GB,United Kingdom
-677,1997,Jens C.,Skou,chemistry,male,08-10-1918,DK,Denmark
-678,1997,Robert C.,Merton,economics,male,31-07-1944,US,USA
-679,1997,Stanley B.,Prusiner,medicine,male,28-05-1942,US,USA
-680,1997,William D.,Phillips,physics,male,05-11-1948,US,USA
-681,1997,Myron,Scholes,economics,male,01-07-1941,CA,Canada
-682,1997,Claude,Cohen-Tannoudji,physics,male,01-04-1933,DZ,Algeria
-683,1997,Steven,Chu,physics,male,28-02-1948,US,USA
-684,1997,Jody,Williams,peace,female,09-10-1950,US,USA
-686,1997,Paul D.,Boyer,chemistry,male,31-07-1918,US,USA
-687,1998,Amartya,Sen,economics,male,03-11-1933,IN,India
-688,1998,Horst L.,Störmer,physics,male,06-04-1949,DE,Germany
-689,1998,José,Saramago,literature,male,16-11-1922,PT,Portugal
-690,1998,Daniel C.,Tsui,physics,male,28-02-1939,CN,China
-691,1998,Walter,Kohn,chemistry,male,09-03-1923,AT,Austria
-692,1998,Robert F.,Furchgott,medicine,male,04-06-1916,US,USA
-693,1998,Louis J.,Ignarro,medicine,male,31-05-1941,US,USA
-694,1998,Ferid,Murad,medicine,male,14-09-1936,US,USA
-695,1998,John,Pople,chemistry,male,31-10-1925,GB,United Kingdom
-696,1998,John,Hume,peace,male,18-01-1937,GB,Northern Ireland
-697,1998,David,Trimble,peace,male,15-10-1944,GB,Northern Ireland
-698,1998,Robert B.,Laughlin,physics,male,01-11-1950,US,USA
-699,1999,Günter,Grass,literature,male,16-10-1927,PL,Poland
-700,1999,Ahmed,Zewail,chemistry,male,26-02-1946,EG,Egypt
-702,1999,Martinus J.G.,Veltman,physics,male,27-06-1931,NL,the Netherlands
-703,1999,Gerardus,'t Hooft,physics,male,05-07-1946,NL,the Netherlands
-704,1999,Robert,Mundell,economics,male,24-10-1932,CA,Canada
-705,1999,Günter,Blobel,medicine,male,21-05-1936,PL,Poland
-706,2000,Alan,MacDiarmid,chemistry,male,14-04-1927,NZ,New Zealand
-707,2000,Xingjian,Gao,literature,male,04-01-1940,CN,China
-708,2000,Daniel L.,McFadden,economics,male,29-07-1937,US,USA
-709,2000,James J.,Heckman,economics,male,19-04-1944,US,USA
-710,2000,Hideki,Shirakawa,chemistry,male,20-08-1936,JP,Japan
-711,2000,Alan,Heeger,chemistry,male,22-01-1936,US,USA
-712,2000,Paul,Greengard,medicine,male,11-12-1925,US,USA
-713,2000,Herbert,Kroemer,physics,male,25-08-1928,DE,Germany
-714,2000,Zhores,Alferov,physics,male,15-03-1930,BY,Belarus
-715,2000,Kim,Dae-jung,peace,male,03-12-1925,KR,South Korea
-716,2000,Eric,Kandel,medicine,male,07-11-1929,AT,Austria
-717,2000,Arvid,Carlsson,medicine,male,25-01-1923,SE,Sweden
-718,2000,Jack,Kilby,physics,male,08-11-1923,US,USA
-719,2001,George A.,Akerlof,economics,male,17-06-1940,US,USA
-720,2001,Kofi,Annan,peace,male,08-04-1938,GH,Ghana
-722,2001,V. S.,Naipaul,literature,male,17-08-1932,TT,Trinidad and Tobago
-723,2001,Joseph E.,Stiglitz,economics,male,09-02-1943,US,USA
-724,2001,A. Michael,Spence,economics,male,1943-00-00,US,USA
-725,2001,Barry,Sharpless,chemistry,male,28-04-1941,US,USA
-726,2001,Ryoji,Noyori,chemistry,male,03-09-1938,JP,Japan
-727,2001,William,Knowles,chemistry,male,01-06-1917,US,USA
-728,2001,Carl,Wieman,physics,male,26-03-1951,US,USA
-729,2001,Wolfgang,Ketterle,physics,male,21-10-1957,DE,Germany
-730,2001,Eric,Cornell,physics,male,19-12-1961,US,USA
-731,2001,Sir Paul,Nurse,medicine,male,25-01-1949,GB,United Kingdom
-732,2001,Tim,Hunt,medicine,male,19-02-1943,GB,United Kingdom
-733,2001,Leland,Hartwell,medicine,male,30-10-1939,US,USA
-734,2002,Jimmy,Carter,peace,male,01-10-1924,US,USA
-735,2002,Imre,Kertész,literature,male,09-11-1929,HU,Hungary
-736,2002,Daniel,Kahneman,economics,male,05-03-1934,IL,Israel
-737,2002,Kurt,Wüthrich,chemistry,male,04-10-1938,CH,Switzerland
-738,2002,Koichi,Tanaka,chemistry,male,03-08-1959,JP,Japan
-739,2002,John B.,Fenn,chemistry,male,15-06-1917,US,USA
-740,2002,Vernon L.,Smith,economics,male,01-01-1927,US,USA
-741,2002,Masatoshi,Koshiba,physics,male,19-09-1926,JP,Japan
-742,2002,Raymond,Davis Jr.,physics,male,14-10-1914,US,USA
-743,2002,John E.,Sulston,medicine,male,27-03-1942,GB,United Kingdom
-744,2002,H. Robert,Horvitz,medicine,male,08-05-1947,US,USA
-745,2002,Sydney,Brenner,medicine,male,13-01-1927,ZA,South Africa
-746,2002,Riccardo,Giacconi,physics,male,06-10-1931,IT,Italy
-747,2003,Shirin,Ebadi,peace,female,21-06-1947,IR,Iran
-748,2003,Clive W.J.,Granger,economics,male,04-09-1934,GB,United Kingdom
-749,2003,Robert F.,Engle III,economics,male,10-11-1942,US,USA
-750,2003,Roderick,MacKinnon,chemistry,male,19-02-1956,US,USA
-751,2003,Peter,Agre,chemistry,male,30-01-1949,US,USA
-752,2003,Anthony J.,Leggett,physics,male,26-03-1938,GB,United Kingdom
-753,2003,Vitaly L.,Ginzburg,physics,male,04-10-1916,RU,Russia
-754,2003,Sir Peter,Mansfield,medicine,male,09-10-1933,GB,United Kingdom
-755,2003,Paul C.,Lauterbur,medicine,male,06-05-1929,US,USA
-756,2003,J. M.,Coetzee,literature,male,09-02-1940,ZA,South Africa
-757,2003,Alexei,Abrikosov,physics,male,25-06-1928,RU,Russia
-758,2004,Edward C.,Prescott,economics,male,26-12-1940,US,USA
-759,2004,Irwin,Rose,chemistry,male,16-07-1926,US,USA
-760,2004,Finn E.,Kydland,economics,male,01-12-1943,NO,Norway
-761,2004,Wangari,Maathai,peace,female,01-04-1940,KE,Kenya
-762,2004,Elfriede,Jelinek,literature,female,20-10-1946,AT,Austria
-763,2004,Avram,Hershko,chemistry,male,31-12-1937,HU,Hungary
-764,2004,David J.,Gross,physics,male,19-02-1941,US,USA
-765,2004,Frank,Wilczek,physics,male,15-05-1951,US,USA
-766,2004,H. David,Politzer,physics,male,31-08-1949,US,USA
-767,2004,Linda B.,Buck,medicine,female,29-01-1947,US,USA
-768,2004,Richard,Axel,medicine,male,02-07-1946,US,USA
-769,2004,Aaron,Ciechanover,chemistry,male,01-10-1947,IL,Israel
-770,2005,Harold,Pinter,literature,male,10-10-1930,GB,United Kingdom
-771,2005,Thomas C.,Schelling,economics,male,14-04-1921,US,USA
-772,2005,Mohamed,ElBaradei,peace,male,17-06-1942,EG,Egypt
-774,2005,Richard R.,Schrock,chemistry,male,04-01-1945,US,USA
-775,2005,Robert H.,Grubbs,chemistry,male,27-02-1942,US,USA
-776,2005,Robert J.,Aumann,economics,male,08-06-1930,DE,Germany
-777,2005,Theodor W.,Hänsch,physics,male,30-10-1941,DE,Germany
-778,2005,John L.,Hall,physics,male,21-08-1934,US,USA
-779,2005,Roy J.,Glauber,physics,male,01-09-1925,US,USA
-780,2005,J. Robin,Warren,medicine,male,11-06-1937,AU,Australia
-781,2005,Barry J.,Marshall,medicine,male,30-09-1951,AU,Australia
-782,2005,Yves,Chauvin,chemistry,male,10-10-1930,BE,Belgium
-784,2006,Muhammad,Yunus,peace,male,28-06-1940,BD,Bangladesh
-785,2006,Orhan,Pamuk,literature,male,07-06-1952,TR,Turkey
-786,2006,Edmund S.,Phelps,economics,male,26-07-1933,US,USA
-787,2006,Roger D.,Kornberg,chemistry,male,24-04-1947,US,USA
-788,2006,George F.,Smoot,physics,male,20-02-1945,US,USA
-789,2006,Craig C.,Mello,medicine,male,18-10-1960,US,USA
-790,2006,Andrew Z.,Fire,medicine,male,27-04-1959,US,USA
-791,2006,John C.,Mather,physics,male,07-08-1946,US,USA
-792,2007,Roger B.,Myerson,economics,male,29-03-1951,US,USA
-793,2007,Eric S.,Maskin,economics,male,12-12-1950,US,USA
-794,2007,Leonid,Hurwicz,economics,male,21-08-1917,RU,Russia
-795,2007,Al,Gore,peace,male,31-03-1948,US,USA
-797,2007,Gerhard,Ertl,chemistry,male,10-10-1936,DE,Germany
-798,2007,Doris,Lessing,literature,female,22-10-1919,IR,Iran
-799,2007,Albert,Fert,physics,male,07-03-1938,FR,France
-800,2007,Oliver,Smithies,medicine,male,23-06-1925,GB,United Kingdom
-801,2007,Sir Martin J.,Evans,medicine,male,01-01-1941,GB,United Kingdom
-802,2007,Mario R.,Capecchi,medicine,male,06-10-1937,IT,Italy
-803,2007,Peter,Grünberg,physics,male,18-05-1939,CZ,Czech Republic
-804,2008,Martti,Ahtisaari,peace,male,23-06-1937,FI,Finland
-805,2008,Jean-Marie Gustave,Le Clézio,literature,male,13-04-1940,FR,France
-806,2008,Roger Y.,Tsien,chemistry,male,01-02-1952,US,USA
-807,2008,Martin,Chalfie,chemistry,male,15-01-1947,US,USA
-808,2008,Osamu,Shimomura,chemistry,male,27-08-1928,JP,Japan
-809,2008,Toshihide,Maskawa,physics,male,07-02-1940,JP,Japan
-810,2008,Paul,Krugman,economics,male,28-02-1953,US,USA
-811,2008,Yoichiro,Nambu,physics,male,18-01-1921,JP,Japan
-812,2008,Luc,Montagnier,medicine,male,18-08-1932,FR,France
-813,2008,Françoise,Barré-Sinoussi,medicine,female,30-07-1947,FR,France
-814,2008,Harald,zur Hausen,medicine,male,11-03-1936,DE,Germany
-815,2008,Makoto,Kobayashi,physics,male,07-04-1944,JP,Japan
-816,2009,Oliver E.,Williamson,economics,male,27-09-1932,US,USA
-817,2009,Elinor,Ostrom,economics,female,07-08-1933,US,USA
-818,2009,Barack,Obama,peace,male,04-08-1961,US,USA
-819,2009,Herta,Müller,literature,female,17-08-1953,RO,Romania
-820,2009,Ada E.,Yonath,chemistry,female,22-06-1939,IL,Israel
-821,2009,Thomas A.,Steitz,chemistry,male,23-08-1940,US,USA
-822,2009,Venkatraman,Ramakrishnan,chemistry,male,1952-00-00,IN,India
-823,2009,George E.,Smith,physics,male,10-05-1930,US,USA
-824,2009,Charles K.,Kao,physics,male,04-11-1933,CN,China
-825,2009,Jack W.,Szostak,medicine,male,09-11-1952,GB,United Kingdom
-826,2009,Carol W.,Greider,medicine,female,15-04-1961,US,USA
-827,2009,Elizabeth H.,Blackburn,medicine,female,26-11-1948,AU,Australia
-828,2009,Willard S.,Boyle,physics,male,19-08-1924,CA,Canada
-829,2010,Dale T.,Mortensen,economics,male,02-02-1939,US,USA
-830,2010,Mario,Vargas Llosa,literature,male,28-03-1936,PE,Peru
-831,2010,Christopher A.,Pissarides,economics,male,20-02-1948,CY,Cyprus
-832,2010,Xiaobo,Liu,peace,male,28-12-1955,CN,China
-833,2010,Akira,Suzuki,chemistry,male,12-09-1930,JP,Japan
-834,2010,Peter A.,Diamond,economics,male,29-04-1940,US,USA
-835,2010,Richard F.,Heck,chemistry,male,15-08-1931,US,USA
-836,2010,Konstantin,Novoselov,physics,male,23-08-1974,RU,Russia
-837,2010,Andre,Geim,physics,male,21-10-1958,RU,Russia
-838,2010,Robert G.,Edwards,medicine,male,27-09-1925,GB,United Kingdom
-839,2010,Ei-ichi,Negishi,chemistry,male,14-07-1935,CN,China
-840,2011,Christopher A.,Sims,economics,male,21-10-1942,US,USA
-841,2011,Tawakkol,Karman,peace,female,07-02-1979,YE,Yemen
-842,2011,Leymah,Gbowee,peace,female,01-02-1972,LR,Liberia
-843,2011,Ellen,Johnson Sirleaf,peace,female,29-10-1938,LR,Liberia
-844,2011,Tomas,Tranströmer,literature,male,15-04-1931,SE,Sweden
-845,2011,Dan,Shechtman,chemistry,male,24-01-1941,IL,Israel
-846,2011,Thomas J.,Sargent,economics,male,19-07-1943,US,USA
-847,2011,Brian P.,Schmidt,physics,male,24-02-1967,US,USA
-848,2011,Saul,Perlmutter,physics,male,1959-00-00,US,USA
-849,2011,Ralph M.,Steinman,medicine,male,14-01-1943,CA,Canada
-850,2011,Jules A.,Hoffmann,medicine,male,02-08-1941,LU,Luxembourg
-851,2011,Bruce A.,Beutler,medicine,male,29-12-1957,US,USA
-852,2011,Adam G.,Riess,physics,male,16-12-1969,US,USA
-853,2012,Lloyd S.,Shapley,economics,male,02-06-1923,US,USA
-854,2012,Alvin E.,Roth,economics,male,18-12-1951,US,USA
-856,2012,Mo,Yan,literature,male,02-02-1955,CN,China
-857,2012,Brian,Kobilka,chemistry,male,30-05-1955,US,USA
-858,2012,Robert J.,Lefkowitz,chemistry,male,15-04-1943,US,USA
-859,2012,Serge,Haroche,physics,male,11-09-1944,MA,Morocco
-860,2012,Shinya,Yamanaka,medicine,male,04-09-1962,JP,Japan
-861,2012,Sir John B.,Gurdon,medicine,male,02-10-1933,GB,United Kingdom
-862,2012,David J.,Wineland,physics,male,24-02-1944,US,USA
-863,2013,Robert J.,Shiller,economics,male,29-03-1946,US,USA
-864,2013,Arieh,Warshel,chemistry,male,20-11-1940,IL,Israel
-865,2013,Lars Peter,Hansen,economics,male,26-10-1952,US,USA
-866,2013,Eugene F.,Fama,economics,male,14-02-1939,US,USA
-868,2013,Alice,Munro,literature,female,10-07-1931,CA,Canada
-869,2013,Michael,Levitt,chemistry,male,09-05-1947,ZA,South Africa
-870,2013,Martin,Karplus,chemistry,male,15-03-1930,AT,Austria
-871,2013,Peter,Higgs,physics,male,29-05-1929,GB,United Kingdom
-872,2013,François,Englert,physics,male,06-11-1932,BE,Belgium
-873,2013,Thomas C.,Südhof,medicine,male,22-12-1955,DE,Germany
-874,2013,Randy W.,Schekman,medicine,male,30-12-1948,US,USA
-875,2013,James E.,Rothman,medicine,male,03-11-1950,US,USA
-876,2014,Jean,Tirole,economics,male,09-08-1953,FR,France
-877,2014,Malala,Yousafzai,peace,female,12-07-1997,PK,Pakistan
-878,2014,Patrick,Modiano,literature,male,30-07-1945,FR,France
-879,2014,William E.,Moerner,chemistry,male,24-06-1953,US,USA
-880,2014,Stefan W.,Hell,chemistry,male,23-12-1962,RO,Romania
-881,2014,Eric,Betzig,chemistry,male,13-01-1960,US,USA
-882,2014,Kailash,Satyarthi,peace,male,11-01-1954,IN,India
-883,2014,Hiroshi,Amano,physics,male,11-09-1960,JP,Japan
-884,2014,Isamu,Akasaki,physics,male,30-01-1929,JP,Japan
-885,2014,Edvard I.,Moser,medicine,male,27-04-1962,NO,Norway
-886,2014,May-Britt,Moser,medicine,female,04-01-1963,NO,Norway
-887,2014,John,O'Keefe,medicine,male,18-11-1939,US,USA
-888,2014,Shuji,Nakamura,physics,male,22-05-1954,JP,Japan
-889,2015,Angus,Deaton,economics,male,19-10-1945,GB,Scotland
-891,2015,Svetlana,Alexievich,literature,female,31-05-1948,UA,Ukraine
-892,2015,Aziz,Sancar,chemistry,male,08-09-1946,TR,Turkey
-893,2015,Paul,Modrich,chemistry,male,13-06-1946,US,USA
-894,2015,Tomas,Lindahl,chemistry,male,28-01-1938,SE,Sweden
-895,2015,Takaaki,Kajita,physics,male,09-03-1959,JP,Japan
-896,2015,Youyou,Tu,medicine,female,30-12-1930,CN,China
-897,2015,Satoshi,Ōmura,medicine,male,12-07-1935,JP,Japan
-898,2015,William C.,Campbell,medicine,male,28-06-1930,IE,Ireland
-899,2015,Arthur B.,McDonald,physics,male,29-08-1943,CA,Canada
-900,2016,Bengt,Holmström,economics,male,18-04-1949,FI,Finland
-901,2016,Bernard L.,Feringa,chemistry,male,18-05-1951,NL,the Netherlands
-902,2016,Oliver,Hart,economics,male,09-10-1948,GB,United Kingdom
-903,2016,Juan Manuel,Santos,peace,male,10-08-1951,CO,Colombia
-904,2016,Sir J. Fraser,Stoddart,chemistry,male,24-05-1942,GB,United Kingdom
-905,2016,Bob,Dylan,literature,male,24-05-1941,US,USA
-906,2016,J. Michael,Kosterlitz,physics,male,22-06-1943,GB,United Kingdom
-907,2016,F. Duncan M.,Haldane,physics,male,14-09-1951,GB,United Kingdom
-908,2016,David J.,Thouless,physics,male,21-09-1934,GB,United Kingdom
-909,2016,Yoshinori,Ohsumi,medicine,male,09-02-1945,JP,Japan
-910,2016,Jean-Pierre,Sauvage,chemistry,male,21-10-1944,FR,France
-912,2017,Kazuo,Ishiguro,literature,male,08-11-1954,JP,Japan
-913,2017,Richard,Henderson,chemistry,male,19-07-1945,GB,Scotland
-914,2017,Joachim,Frank,chemistry,male,12-09-1940,DE,Germany
-915,2017,Jacques,Dubochet,chemistry,male,08-06-1942,CH,Switzerland
-916,2017,Kip S.,Thorne,physics,male,01-06-1940,US,USA
-917,2017,Richard H.,Thaler,economics,male,12-09-1945,US,USA
-918,2017,Rainer,Weiss,physics,male,29-09-1932,DE,Germany
-919,2017,Michael W.,Young,medicine,male,28-03-1949,US,USA
-920,2017,Michael,Rosbash,medicine,male,07-03-1944,US,USA
-921,2017,Jeffrey C.,Hall,medicine,male,03-05-1945,US,USA
-922,2017,Barry C.,Barish,physics,male,27-01-1936,US,USA
-923,2018,Olga,Tokarczuk,literature,female,29-01-1962,PL,Poland
-924,2018,Paul M.,Romer,economics,male,1955-00-00,US,USA
-925,2018,William D.,Nordhaus,economics,male,31-05-1941,US,USA
-926,2018,Nadia,Murad,peace,female,1993-00-00,IQ,Iraq
-927,2018,Denis,Mukwege,peace,male,01-03-1955,CD,Democratic Republic of the Congo
-928,2018,Sir Gregory P.,Winter,chemistry,male,14-04-1951,GB,United Kingdom
-929,2018,George P.,Smith,chemistry,male,10-03-1941,US,USA
-930,2018,Frances H.,Arnold,chemistry,female,25-07-1956,US,USA
-931,2018,Gérard,Mourou,physics,male,22-06-1944,FR,France
-932,2018,Arthur,Ashkin,physics,male,02-09-1922,US,USA
-933,2018,Tasuku,Honjo,medicine,male,27-01-1942,JP,Japan
-934,2018,James P.,Allison,medicine,male,07-08-1948,US,USA
-935,2018,Donna,Strickland,physics,female,27-05-1959,CA,Canada
-936,2019,Akira,Yoshino,chemistry,male,30-01-1948,JP,Japan
-937,2019,Abhijit,Banerjee,economics,male,21-02-1961,IN,India
-938,2019,Michael,Kremer,economics,male,12-11-1964,US,USA
-939,2019,Peter,Handke,literature,male,06-12-1942,AT,Austria
-940,2019,Esther,Duflo,economics,female,25-10-1972,FR,France
-941,2019,M. Stanley,Whittingham,chemistry,male,22-12-1941,GB,United Kingdom
-942,2019,Abiy,Ahmed Ali,peace,male,15-08-1976,ET,Ethiopia
-943,2019,Didier,Queloz,physics,male,23-02-1966,CH,Switzerland
-944,2019,Michel,Mayor,physics,male,12-01-1942,CH,Switzerland
-945,2019,James,Peebles,physics,male,25-04-1935,CA,Canada
-946,2019,Gregg,Semenza,medicine,male,12-07-1956,US,USA
-947,2019,Peter,Ratcliffe,medicine,male,14-05-1954,GB,United Kingdom
-948,2019,William,Kaelin,medicine,male,23-11-1957,US,USA
-949,2019,John,Goodenough,chemistry,male,25-07-1922,DE,Germany
-950,2020,Robert,Wilson,economics,male,16-05-1937,US,USA
-951,2020,Paul,Milgrom,economics,male,20-04-1948,US,USA
-953,2020,Louise,Glück,literature,female,22-04-1943,US,USA
-954,2020,Jennifer A.,Doudna,chemistry,female,19-02-1964,US,USA
-955,2020,Emmanuelle,Charpentier,chemistry,female,11-12-1968,FR,France
-956,2020,Reinhard,Genzel,physics,male,24-03-1952,DE,Germany
-957,2020,Roger,Penrose,physics,male,08-08-1931,GB,United Kingdom
-958,2020,Charles,Rice,medicine,male,25-08-1952,US,USA
-959,2020,Michael,Houghton,medicine,male,1949-00-00,GB,United Kingdom
-960,2020,Harvey,Alter,medicine,male,12-09-1935,US,USA
-961,2020,Andrea,Ghez,physics,female,16-06-1965,US,USA
-962,2021,Abdulrazak,Gurnah,literature,male,1948-00-00,,Zanzibar
-963,2021,Joshua,Angrist,economics,male,18-09-1960,US,USA
-964,2021,David,Card,economics,male,1956-00-00,CA,Canada
-965,2021,Dmitry,Muratov,peace,male,1961-00-00,RU,Russia
-966,2021,Guido,Imbens,economics,male,03-09-1963,NL,the Netherlands
-967,2021,Maria,Ressa,peace,female,02-10-1963,PH,Philippines
-968,2021,David,MacMillan,chemistry,male,16-03-1968,GB,United Kingdom
-969,2021,Syukuro,Manabe,physics,male,21-09-1931,JP,Japan
-970,2021,Giorgio,Parisi,physics,male,04-08-1948,IT,Italy
-971,2021,Klaus,Hasselmann,physics,male,25-10-1931,DE,Germany
-972,2021,Ardem,Patapoutian,medicine,male,1967-00-00,LB,Lebanon
-973,2021,David,Julius,medicine,male,04-11-1955,US,USA
-974,2021,Benjamin,List,chemistry,male,11-01-1968,DE,Germany
-975,2022,Ben,Bernanke,economics,male,13-12-1953,US,USA
-978,2022,Ales,Bialiatski,peace,male,25-09-1962,RU,Russia
-979,2022,Annie,Ernaux,literature,female,01-09-1940,FR,France
-980,2022,Morten,Meldal,chemistry,male,1954-00-00,DK,Denmark
-981,2022,Anton,Zeilinger,physics,male,20-05-1945,AT,Austria
-982,2022,John F.,Clauser,physics,male,01-12-1942,US,USA
-983,2022,Alain,Aspect,physics,male,15-06-1947,FR,France
-984,2022,Svante,Pääbo,medicine,male,20-04-1955,SE,Sweden
-985,2022,Barry,Sharpless,chemistry,male,28-04-1941,US,USA
-986,2022,Douglas,Diamond,economics,male,25-10-1953,US,USA
-987,2022,Carolyn,Bertozzi,chemistry,female,10-10-1966,US,USA
-988,2022,Philip,Dybvig,economics,male,22-05-1955,US,USA
+index,Year,Firstname,Lastname,Category,Gender,Birth_Date,Birth_Country_Code,present_birth_country,full_name,day_month
+0,1901,Wilhelm Conrad,Röntgen,physics,male,1845-03-27,DE,Germany,Wilhelm Conrad Röntgen,27-03
+1,1901,Emil,von Behring,medicine,male,1854-03-15,PL,Poland,Emil von Behring,15-03
+2,1901,Henry,Dunant,peace,male,1828-05-08,CH,Switzerland,Henry Dunant,08-05
+3,1901,Frédéric,Passy,peace,male,1822-05-20,FR,France,Frédéric Passy,20-05
+4,1901,Sully,Prudhomme,literature,male,1839-03-16,FR,France,Sully Prudhomme,16-03
+5,1901,Jacobus H.,van 't Hoff,chemistry,male,1852-08-30,NL,the Netherlands,Jacobus H. van 't Hoff,30-08
+6,1902,Emil,Fischer,chemistry,male,1852-10-09,DE,Germany,Emil Fischer,09-10
+7,1902,Theodor,Mommsen,literature,male,1817-11-30,DE,Germany,Theodor Mommsen,30-11
+8,1902,Albert,Gobat,peace,male,1843-05-21,CH,Switzerland,Albert Gobat,21-05
+9,1902,Élie,Ducommun,peace,male,1833-02-19,CH,Switzerland,Élie Ducommun,19-02
+10,1902,Pieter,Zeeman,physics,male,1865-05-25,NL,the Netherlands,Pieter Zeeman,25-05
+11,1902,Ronald,Ross,medicine,male,1857-05-13,IN,India,Ronald Ross,13-05
+12,1902,Hendrik A.,Lorentz,physics,male,1853-07-18,NL,the Netherlands,Hendrik A. Lorentz,18-07
+13,1903,Pierre,Curie,physics,male,1859-05-15,FR,France,Pierre Curie,15-05
+14,1903,Randal,Cremer,peace,male,1828-03-18,GB,United Kingdom,Randal Cremer,18-03
+15,1903,Henri,Becquerel,physics,male,1852-12-15,FR,France,Henri Becquerel,15-12
+16,1903,Marie,Curie,physics,female,1867-11-07,PL,Poland,Marie Curie,07-11
+17,1903,Niels Ryberg,Finsen,medicine,male,1860-12-15,DK,Denmark,Niels Ryberg Finsen,15-12
+18,1903,Bjørnstjerne,Bjørnson,literature,male,1832-12-08,NO,Norway,Bjørnstjerne Bjørnson,08-12
+19,1903,Svante,Arrhenius,chemistry,male,1859-02-19,SE,Sweden,Svante Arrhenius,19-02
+20,1904,José,Echegaray,literature,male,1832-04-19,ES,Spain,José Echegaray,19-04
+21,1904,Lord,Rayleigh,physics,male,1842-11-12,GB,United Kingdom,Lord Rayleigh,12-11
+23,1904,Sir William,Ramsay,chemistry,male,1852-10-02,GB,Scotland,Sir William Ramsay,02-10
+24,1904,Ivan,Pavlov,medicine,male,1849-09-14,RU,Russia,Ivan Pavlov,14-09
+25,1904,Frédéric,Mistral,literature,male,1830-09-08,FR,France,Frédéric Mistral,08-09
+26,1905,Adolf,von Baeyer,chemistry,male,1835-10-31,DE,Germany,Adolf von Baeyer,31-10
+27,1905,Henryk,Sienkiewicz,literature,male,1846-05-05,PL,Poland,Henryk Sienkiewicz,05-05
+28,1905,Philipp,Lenard,physics,male,1862-06-07,SK,Slovakia,Philipp Lenard,07-06
+29,1905,Bertha,von Suttner,peace,female,1843-06-09,CZ,Czech Republic,Bertha von Suttner,09-06
+30,1905,Robert,Koch,medicine,male,1843-12-11,DE,Germany,Robert Koch,11-12
+31,1906,Giosuè,Carducci,literature,male,1835-07-27,IT,Italy,Giosuè Carducci,27-07
+32,1906,Theodore,Roosevelt,peace,male,1858-10-27,US,USA,Theodore Roosevelt,27-10
+33,1906,J.J.,Thomson,physics,male,1856-12-18,GB,United Kingdom,J.J. Thomson,18-12
+34,1906,Santiago,Ramón y Cajal,medicine,male,1852-05-01,ES,Spain,Santiago Ramón y Cajal,01-05
+35,1906,Henri,Moissan,chemistry,male,1852-09-28,FR,France,Henri Moissan,28-09
+36,1906,Camillo,Golgi,medicine,male,1843-07-07,IT,Italy,Camillo Golgi,07-07
+37,1907,Alphonse,Laveran,medicine,male,1845-06-18,FR,France,Alphonse Laveran,18-06
+38,1907,Eduard,Buchner,chemistry,male,1860-05-20,DE,Germany,Eduard Buchner,20-05
+39,1907,Rudyard,Kipling,literature,male,1865-12-30,IN,India,Rudyard Kipling,30-12
+40,1907,Louis,Renault,peace,male,1843-05-21,FR,France,Louis Renault,21-05
+41,1907,Ernesto Teodoro,Moneta,peace,male,1833-09-20,IT,Italy,Ernesto Teodoro Moneta,20-09
+42,1907,Albert A.,Michelson,physics,male,1852-12-19,PL,Poland,Albert A. Michelson,19-12
+43,1908,Ernest,Rutherford,chemistry,male,1871-08-30,NZ,New Zealand,Ernest Rutherford,30-08
+44,1908,Rudolf,Eucken,literature,male,1846-01-05,DE,Germany,Rudolf Eucken,05-01
+45,1908,Fredrik,Bajer,peace,male,1837-04-21,DK,Denmark,Fredrik Bajer,21-04
+46,1908,Ilya,Mechnikov,medicine,male,1845-05-15,UA,Ukraine,Ilya Mechnikov,15-05
+47,1908,Paul,Ehrlich,medicine,male,1854-03-14,PL,Poland,Paul Ehrlich,14-03
+48,1908,Klas Pontus,Arnoldson,peace,male,1844-10-27,SE,Sweden,Klas Pontus Arnoldson,27-10
+49,1908,Gabriel,Lippmann,physics,male,1845-08-16,LU,Luxembourg,Gabriel Lippmann,16-08
+50,1909,Guglielmo,Marconi,physics,male,1874-04-25,IT,Italy,Guglielmo Marconi,25-04
+51,1909,Theodor,Kocher,medicine,male,1841-08-25,CH,Switzerland,Theodor Kocher,25-08
+52,1909,Selma,Lagerlöf,literature,female,1858-11-20,SE,Sweden,Selma Lagerlöf,20-11
+53,1909,Wilhelm,Ostwald,chemistry,male,1853-09-02,LV,Latvia,Wilhelm Ostwald,02-09
+54,1909,Ferdinand,Braun,physics,male,1850-06-06,DE,Germany,Ferdinand Braun,06-06
+55,1909,Auguste,Beernaert,peace,male,1829-07-26,BE,Belgium,Auguste Beernaert,26-07
+56,1909,Paul Henri,d'Estournelles de Constant,peace,male,1852-11-22,FR,France,Paul Henri d'Estournelles de Constant,22-11
+57,1910,Paul,Heyse,literature,male,1830-03-15,DE,Germany,Paul Heyse,15-03
+59,1910,Johannes Diderik,van der Waals,physics,male,1837-11-23,NL,the Netherlands,Johannes Diderik van der Waals,23-11
+60,1910,Albrecht,Kossel,medicine,male,1853-09-16,DE,Germany,Albrecht Kossel,16-09
+61,1910,Otto,Wallach,chemistry,male,1847-03-27,RU,Russia,Otto Wallach,27-03
+62,1911,Alfred,Fried,peace,male,1864-11-11,AT,Austria,Alfred Fried,11-11
+63,1911,Tobias,Asser,peace,male,1838-04-28,NL,the Netherlands,Tobias Asser,28-04
+64,1911,Marie,Curie,chemistry,female,1867-11-07,PL,Poland,Marie Curie,07-11
+65,1911,Wilhelm,Wien,physics,male,1864-01-13,RU,Russia,Wilhelm Wien,13-01
+66,1911,Maurice,Maeterlinck,literature,male,1862-08-29,BE,Belgium,Maurice Maeterlinck,29-08
+67,1911,Allvar,Gullstrand,medicine,male,1862-06-05,SE,Sweden,Allvar Gullstrand,05-06
+68,1912,Gerhart,Hauptmann,literature,male,1862-11-15,PL,Poland,Gerhart Hauptmann,15-11
+69,1912,Alexis,Carrel,medicine,male,1873-06-28,FR,France,Alexis Carrel,28-06
+70,1912,Paul,Sabatier,chemistry,male,1854-11-05,FR,France,Paul Sabatier,05-11
+71,1912,Victor,Grignard,chemistry,male,1871-05-06,FR,France,Victor Grignard,06-05
+72,1912,Gustaf,Dalén,physics,male,1869-11-30,SE,Sweden,Gustaf Dalén,30-11
+73,1912,Elihu,Root,peace,male,1845-02-15,US,USA,Elihu Root,15-02
+74,1913,Charles,Richet,medicine,male,1850-08-26,FR,France,Charles Richet,26-08
+75,1913,Alfred,Werner,chemistry,male,1866-12-12,FR,France,Alfred Werner,12-12
+76,1913,Henri,La Fontaine,peace,male,1854-04-22,BE,Belgium,Henri La Fontaine,22-04
+77,1913,Rabindranath,Tagore,literature,male,1861-05-07,IN,India,Rabindranath Tagore,07-05
+78,1913,Heike,Kamerlingh Onnes,physics,male,1853-09-21,NL,the Netherlands,Heike Kamerlingh Onnes,21-09
+79,1914,Max,von Laue,physics,male,1879-10-09,DE,Germany,Max von Laue,09-10
+80,1914,Robert,Bárány,medicine,male,1876-04-22,AT,Austria,Robert Bárány,22-04
+81,1914,Theodore W.,Richards,chemistry,male,1868-01-31,US,USA,Theodore W. Richards,31-01
+82,1915,William,Bragg,physics,male,1862-07-02,GB,United Kingdom,William Bragg,02-07
+83,1915,Lawrence,Bragg,physics,male,1890-03-31,AU,Australia,Lawrence Bragg,31-03
+84,1915,Richard,Willstätter,chemistry,male,1872-08-13,DE,Germany,Richard Willstätter,13-08
+85,1915,Romain,Rolland,literature,male,1866-01-29,FR,France,Romain Rolland,29-01
+86,1916,Verner,von Heidenstam,literature,male,1859-07-06,SE,Sweden,Verner von Heidenstam,06-07
+88,1917,Charles Glover,Barkla,physics,male,1877-06-07,GB,United Kingdom,Charles Glover Barkla,07-06
+89,1917,Karl,Gjellerup,literature,male,1857-06-02,DK,Denmark,Karl Gjellerup,02-06
+90,1917,Henrik,Pontoppidan,literature,male,1857-07-24,DK,Denmark,Henrik Pontoppidan,24-07
+91,1918,Max,Planck,physics,male,1858-04-23,DE,Germany,Max Planck,23-04
+92,1918,Fritz,Haber,chemistry,male,1868-12-09,PL,Poland,Fritz Haber,09-12
+93,1919,Woodrow,Wilson,peace,male,1856-12-28,US,USA,Woodrow Wilson,28-12
+94,1919,Jules,Bordet,medicine,male,1870-06-13,BE,Belgium,Jules Bordet,13-06
+95,1919,Johannes,Stark,physics,male,1874-04-15,DE,Germany,Johannes Stark,15-04
+96,1919,Carl,Spitteler,literature,male,1845-04-24,CH,Switzerland,Carl Spitteler,24-04
+97,1920,Charles Edouard,Guillaume,physics,male,1861-02-15,CH,Switzerland,Charles Edouard Guillaume,15-02
+98,1920,Walther,Nernst,chemistry,male,1864-06-25,PL,Poland,Walther Nernst,25-06
+99,1920,August,Krogh,medicine,male,1874-11-15,DK,Denmark,August Krogh,15-11
+100,1920,Léon,Bourgeois,peace,male,1851-05-21,FR,France,Léon Bourgeois,21-05
+101,1920,Knut,Hamsun,literature,male,1859-08-04,NO,Norway,Knut Hamsun,04-08
+102,1921,Anatole,France,literature,male,1844-04-16,FR,France,Anatole France,16-04
+103,1921,Hjalmar,Branting,peace,male,1860-11-23,SE,Sweden,Hjalmar Branting,23-11
+104,1921,Albert,Einstein,physics,male,1879-03-14,DE,Germany,Albert Einstein,14-03
+105,1921,Frederick,Soddy,chemistry,male,1877-09-02,GB,United Kingdom,Frederick Soddy,02-09
+106,1921,Christian,Lange,peace,male,1869-09-17,NO,Norway,Christian Lange,17-09
+107,1922,Niels,Bohr,physics,male,1885-10-07,DK,Denmark,Niels Bohr,07-10
+108,1922,Fridtjof,Nansen,peace,male,1861-10-10,NO,Norway,Fridtjof Nansen,10-10
+109,1922,Francis W.,Aston,chemistry,male,1877-09-01,GB,United Kingdom,Francis W. Aston,01-09
+110,1922,Otto,Meyerhof,medicine,male,1884-04-12,DE,Germany,Otto Meyerhof,12-04
+111,1922,Jacinto,Benavente,literature,male,1866-08-12,ES,Spain,Jacinto Benavente,12-08
+112,1922,Archibald V.,Hill,medicine,male,1886-09-26,GB,United Kingdom,Archibald V. Hill,26-09
+113,1923,Frederick G.,Banting,medicine,male,1891-11-14,CA,Canada,Frederick G. Banting,14-11
+114,1923,John,Macleod,medicine,male,1876-09-06,GB,Scotland,John Macleod,06-09
+115,1923,Robert A.,Millikan,physics,male,1868-03-22,US,USA,Robert A. Millikan,22-03
+116,1923,Fritz,Pregl,chemistry,male,1869-09-03,SI,Slovenia,Fritz Pregl,03-09
+117,1923,William Butler,Yeats,literature,male,1865-06-13,IE,Ireland,William Butler Yeats,13-06
+118,1924,Wladyslaw,Reymont,literature,male,1867-05-07,PL,Poland,Wladyslaw Reymont,07-05
+119,1924,Willem,Einthoven,medicine,male,1860-05-21,ID,Indonesia,Willem Einthoven,21-05
+120,1924,Manne,Siegbahn,physics,male,1886-12-03,SE,Sweden,Manne Siegbahn,03-12
+121,1925,James,Franck,physics,male,1882-08-26,DE,Germany,James Franck,26-08
+122,1925,Gustav,Hertz,physics,male,1887-07-22,DE,Germany,Gustav Hertz,22-07
+123,1925,Sir Austen,Chamberlain,peace,male,1863-10-16,GB,United Kingdom,Sir Austen Chamberlain,16-10
+124,1925,Charles G.,Dawes,peace,male,1865-08-27,US,USA,Charles G. Dawes,27-08
+125,1925,Richard,Zsigmondy,chemistry,male,1865-04-01,AT,Austria,Richard Zsigmondy,01-04
+126,1925,George Bernard,Shaw,literature,male,1856-07-26,IE,Ireland,George Bernard Shaw,26-07
+127,1926,Gustav,Stresemann,peace,male,1878-05-10,DE,Germany,Gustav Stresemann,10-05
+128,1926,Aristide,Briand,peace,male,1862-03-28,FR,France,Aristide Briand,28-03
+129,1926,Grazia,Deledda,literature,female,1871-09-27,IT,Italy,Grazia Deledda,27-09
+130,1926,Johannes,Fibiger,medicine,male,1867-04-23,DK,Denmark,Johannes Fibiger,23-04
+131,1926,Jean Baptiste,Perrin,physics,male,1870-09-30,FR,France,Jean Baptiste Perrin,30-09
+132,1926,The,Svedberg,chemistry,male,1884-08-30,SE,Sweden,The Svedberg,30-08
+133,1927,Henri,Bergson,literature,male,1859-10-18,FR,France,Henri Bergson,18-10
+134,1927,Ludwig,Quidde,peace,male,1858-03-23,DE,Germany,Ludwig Quidde,23-03
+135,1927,Arthur H.,Compton,physics,male,1892-09-10,US,USA,Arthur H. Compton,10-09
+136,1927,C.T.R.,Wilson,physics,male,1869-02-14,GB,Scotland,C.T.R. Wilson,14-02
+137,1927,Julius,Wagner-Jauregg,medicine,male,1857-03-07,AT,Austria,Julius Wagner-Jauregg,07-03
+138,1927,Heinrich,Wieland,chemistry,male,1877-06-04,DE,Germany,Heinrich Wieland,04-06
+139,1927,Ferdinand,Buisson,peace,male,1841-12-20,FR,France,Ferdinand Buisson,20-12
+140,1928,Charles,Nicolle,medicine,male,1866-09-21,FR,France,Charles Nicolle,21-09
+141,1928,Adolf,Windaus,chemistry,male,1876-12-25,DE,Germany,Adolf Windaus,25-12
+142,1928,Owen Willans,Richardson,physics,male,1879-04-26,GB,United Kingdom,Owen Willans Richardson,26-04
+143,1928,Sigrid,Undset,literature,female,1882-05-20,DK,Denmark,Sigrid Undset,20-05
+144,1929,Arthur,Harden,chemistry,male,1865-10-12,GB,United Kingdom,Arthur Harden,12-10
+145,1929,Hans,von Euler-Chelpin,chemistry,male,1873-02-15,DE,Germany,Hans von Euler-Chelpin,15-02
+146,1929,Christiaan,Eijkman,medicine,male,1858-08-11,NL,the Netherlands,Christiaan Eijkman,11-08
+147,1929,Louis,de Broglie,physics,male,1892-08-15,FR,France,Louis de Broglie,15-08
+148,1929,Thomas,Mann,literature,male,1875-06-06,DE,Germany,Thomas Mann,06-06
+149,1929,Sir Frederick,Hopkins,medicine,male,1861-06-20,GB,United Kingdom,Sir Frederick Hopkins,20-06
+150,1929,Frank B.,Kellogg,peace,male,1856-12-22,US,USA,Frank B. Kellogg,22-12
+151,1930,Sinclair,Lewis,literature,male,1885-02-07,US,USA,Sinclair Lewis,07-02
+152,1930,Karl,Landsteiner,medicine,male,1868-06-14,AT,Austria,Karl Landsteiner,14-06
+153,1930,Hans,Fischer,chemistry,male,1881-07-27,DE,Germany,Hans Fischer,27-07
+154,1930,Nathan,Söderblom,peace,male,1866-01-15,SE,Sweden,Nathan Söderblom,15-01
+155,1930,Sir Chandrasekhara Venkata,Raman,physics,male,1888-11-07,IN,India,Sir Chandrasekhara Venkata Raman,07-11
+156,1931,Otto,Warburg,medicine,male,1883-10-08,DE,Germany,Otto Warburg,08-10
+157,1931,Carl,Bosch,chemistry,male,1874-08-27,DE,Germany,Carl Bosch,27-08
+158,1931,Friedrich,Bergius,chemistry,male,1884-10-11,PL,Poland,Friedrich Bergius,11-10
+159,1931,Erik Axel,Karlfeldt,literature,male,1864-07-20,SE,Sweden,Erik Axel Karlfeldt,20-07
+160,1931,Jane,Addams,peace,female,1860-09-06,US,USA,Jane Addams,06-09
+161,1931,Nicholas Murray,Butler,peace,male,1862-04-02,US,USA,Nicholas Murray Butler,02-04
+162,1932,Edgar,Adrian,medicine,male,1889-11-30,GB,United Kingdom,Edgar Adrian,30-11
+163,1932,Sir Charles,Sherrington,medicine,male,1857-11-27,GB,United Kingdom,Sir Charles Sherrington,27-11
+164,1932,Werner,Heisenberg,physics,male,05-12-1901,DE,Germany,Werner Heisenberg,05-12
+165,1932,John,Galsworthy,literature,male,1867-08-14,GB,United Kingdom,John Galsworthy,14-08
+166,1932,Irving,Langmuir,chemistry,male,1881-01-31,US,USA,Irving Langmuir,31-01
+167,1933,Paul A.M.,Dirac,physics,male,08-08-1902,GB,United Kingdom,Paul A.M. Dirac,08-08
+168,1933,Erwin,Schrödinger,physics,male,1887-08-12,AT,Austria,Erwin Schrödinger,12-08
+169,1933,Sir Norman,Angell,peace,male,1872-12-26,GB,United Kingdom,Sir Norman Angell,26-12
+170,1933,Thomas H.,Morgan,medicine,male,1866-09-25,US,USA,Thomas H. Morgan,25-09
+171,1933,Ivan,Bunin,literature,male,1870-10-22,RU,Russia,Ivan Bunin,22-10
+172,1934,George H.,Whipple,medicine,male,1878-08-28,US,USA,George H. Whipple,28-08
+173,1934,Harold C.,Urey,chemistry,male,1893-04-29,US,USA,Harold C. Urey,29-04
+174,1934,Luigi,Pirandello,literature,male,1867-06-28,IT,Italy,Luigi Pirandello,28-06
+175,1934,George R.,Minot,medicine,male,1885-12-02,US,USA,George R. Minot,02-12
+176,1934,William P.,Murphy,medicine,male,1892-02-06,US,USA,William P. Murphy,06-02
+177,1934,Arthur,Henderson,peace,male,1863-09-13,GB,Scotland,Arthur Henderson,13-09
+178,1935,Frédéric,Joliot,chemistry,male,19-03-1900,FR,France,Frédéric Joliot,19-03
+179,1935,Irène,Joliot-Curie,chemistry,female,1897-09-12,FR,France,Irène Joliot-Curie,12-09
+180,1935,James,Chadwick,physics,male,1891-10-20,GB,United Kingdom,James Chadwick,20-10
+181,1935,Hans,Spemann,medicine,male,1869-06-27,DE,Germany,Hans Spemann,27-06
+182,1935,Carl,von Ossietzky,peace,male,1889-10-03,DE,Germany,Carl von Ossietzky,03-10
+183,1936,Peter,Debye,chemistry,male,1884-03-24,NL,the Netherlands,Peter Debye,24-03
+184,1936,Otto,Loewi,medicine,male,1873-06-03,DE,Germany,Otto Loewi,03-06
+185,1936,Victor F.,Hess,physics,male,1883-06-24,AT,Austria,Victor F. Hess,24-06
+186,1936,Sir Henry,Dale,medicine,male,1875-06-09,GB,United Kingdom,Sir Henry Dale,09-06
+187,1936,Carl D.,Anderson,physics,male,03-09-1905,US,USA,Carl D. Anderson,03-09
+188,1936,Carlos,Saavedra Lamas,peace,male,1878-11-01,AR,Argentina,Carlos Saavedra Lamas,01-11
+189,1936,Eugene,O'Neill,literature,male,1888-10-16,US,USA,Eugene O'Neill,16-10
+190,1937,George Paget,Thomson,physics,male,1892-05-03,GB,United Kingdom,George Paget Thomson,03-05
+191,1937,Albert,Szent-Györgyi,medicine,male,1893-09-16,HU,Hungary,Albert Szent-Györgyi,16-09
+192,1937,Norman,Haworth,chemistry,male,1883-03-19,GB,United Kingdom,Norman Haworth,19-03
+193,1937,Clinton,Davisson,physics,male,1881-10-22,US,USA,Clinton Davisson,22-10
+194,1937,Robert,Cecil,peace,male,1864-09-14,GB,United Kingdom,Robert Cecil,14-09
+195,1937,Roger,Martin du Gard,literature,male,1881-03-23,FR,France,Roger Martin du Gard,23-03
+196,1937,Paul,Karrer,chemistry,male,1889-04-21,RU,Russia,Paul Karrer,21-04
+197,1938,Enrico,Fermi,physics,male,29-09-1901,IT,Italy,Enrico Fermi,29-09
+198,1938,Richard,Kuhn,chemistry,male,03-12-1900,AT,Austria,Richard Kuhn,03-12
+199,1938,Corneille,Heymans,medicine,male,1892-03-28,BE,Belgium,Corneille Heymans,28-03
+201,1938,Pearl,Buck,literature,female,1892-06-26,US,USA,Pearl Buck,26-06
+202,1939,Gerhard,Domagk,medicine,male,1895-10-30,PL,Poland,Gerhard Domagk,30-10
+203,1939,Ernest,Lawrence,physics,male,08-08-1901,US,USA,Ernest Lawrence,08-08
+204,1939,Leopold,Ruzicka,chemistry,male,1887-09-13,HR,Croatia,Leopold Ruzicka,13-09
+205,1939,Adolf,Butenandt,chemistry,male,24-03-1903,DE,Germany,Adolf Butenandt,24-03
+206,1939,Frans Eemil,Sillanpää,literature,male,1888-09-16,FI,Finland,Frans Eemil Sillanpää,16-09
+207,1943,Henrik,Dam,medicine,male,1895-02-21,DK,Denmark,Henrik Dam,21-02
+208,1943,Edward A.,Doisy,medicine,male,1893-11-13,US,USA,Edward A. Doisy,13-11
+209,1943,George,de Hevesy,chemistry,male,1885-08-01,HU,Hungary,George de Hevesy,01-08
+210,1943,Otto,Stern,physics,male,1888-02-17,PL,Poland,Otto Stern,17-02
+211,1944,Joseph,Erlanger,medicine,male,1874-01-05,US,USA,Joseph Erlanger,05-01
+212,1944,Johannes V.,Jensen,literature,male,1873-01-20,DK,Denmark,Johannes V. Jensen,20-01
+213,1944,Herbert S.,Gasser,medicine,male,1888-07-05,US,USA,Herbert S. Gasser,05-07
+214,1944,Otto,Hahn,chemistry,male,1879-03-08,DE,Germany,Otto Hahn,08-03
+216,1944,Isidor Isaac,Rabi,physics,male,1898-07-29,PL,Poland,Isidor Isaac Rabi,29-07
+217,1945,Wolfgang,Pauli,physics,male,25-04-1900,AT,Austria,Wolfgang Pauli,25-04
+218,1945,Gabriela,Mistral,literature,female,1889-04-07,CL,Chile,Gabriela Mistral,07-04
+219,1945,Artturi,Virtanen,chemistry,male,1895-01-15,FI,Finland,Artturi Virtanen,15-01
+220,1945,Cordell,Hull,peace,male,1871-10-02,US,USA,Cordell Hull,02-10
+221,1945,Sir Alexander,Fleming,medicine,male,1881-08-06,GB,Scotland,Sir Alexander Fleming,06-08
+222,1945,Ernst B.,Chain,medicine,male,19-06-1906,DE,Germany,Ernst B. Chain,19-06
+223,1945,Sir Howard,Florey,medicine,male,1898-09-24,AU,Australia,Sir Howard Florey,24-09
+224,1946,John R.,Mott,peace,male,1865-05-25,US,USA,John R. Mott,25-05
+225,1946,Percy W.,Bridgman,physics,male,1882-04-21,US,USA,Percy W. Bridgman,21-04
+226,1946,James B.,Sumner,chemistry,male,1887-11-19,US,USA,James B. Sumner,19-11
+227,1946,John H.,Northrop,chemistry,male,1891-07-05,US,USA,John H. Northrop,05-07
+228,1946,Wendell M.,Stanley,chemistry,male,16-08-1904,US,USA,Wendell M. Stanley,16-08
+229,1946,Hermann J.,Muller,medicine,male,1890-12-21,US,USA,Hermann J. Muller,21-12
+230,1946,Emily Greene,Balch,peace,female,1867-01-08,US,USA,Emily Greene Balch,08-01
+231,1946,Hermann,Hesse,literature,male,1877-07-02,DE,Germany,Hermann Hesse,02-07
+232,1947,Gerty,Cori,medicine,female,1896-08-15,CZ,Czech Republic,Gerty Cori,15-08
+233,1947,Bernardo,Houssay,medicine,male,1887-04-10,AR,Argentina,Bernardo Houssay,10-04
+234,1947,Edward V.,Appleton,physics,male,1892-09-06,GB,United Kingdom,Edward V. Appleton,06-09
+235,1947,André,Gide,literature,male,1869-11-22,FR,France,André Gide,22-11
+236,1947,Sir Robert,Robinson,chemistry,male,1886-09-13,GB,United Kingdom,Sir Robert Robinson,13-09
+239,1947,Carl,Cori,medicine,male,1896-12-05,CZ,Czech Republic,Carl Cori,05-12
+240,1948,Paul,Müller,medicine,male,1899-01-12,CH,Switzerland,Paul Müller,12-01
+241,1948,T.S.,Eliot,literature,male,1888-09-26,US,USA,T.S. Eliot,26-09
+242,1948,Arne,Tiselius,chemistry,male,10-08-1902,SE,Sweden,Arne Tiselius,10-08
+243,1948,Patrick M.S.,Blackett,physics,male,1897-11-18,GB,United Kingdom,Patrick M.S. Blackett,18-11
+244,1949,Egas,Moniz,medicine,male,1874-11-29,PT,Portugal,Egas Moniz,29-11
+245,1949,William F.,Giauque,chemistry,male,1895-05-12,CA,Canada,William F. Giauque,12-05
+246,1949,Walter,Hess,medicine,male,1881-03-17,CH,Switzerland,Walter Hess,17-03
+247,1949,William,Faulkner,literature,male,1897-09-25,US,USA,William Faulkner,25-09
+248,1949,John,Boyd Orr,peace,male,1880-09-23,GB,Scotland,John Boyd Orr,23-09
+249,1949,Hideki,Yukawa,physics,male,23-01-1907,JP,Japan,Hideki Yukawa,23-01
+250,1950,Bertrand,Russell,literature,male,1872-05-18,GB,United Kingdom,Bertrand Russell,18-05
+251,1950,Ralph,Bunche,peace,male,07-08-1904,US,USA,Ralph Bunche,07-08
+252,1950,Philip S.,Hench,medicine,male,1896-02-28,US,USA,Philip S. Hench,28-02
+253,1950,Tadeus,Reichstein,medicine,male,1897-07-20,PL,Poland,Tadeus Reichstein,20-07
+254,1950,Edward C.,Kendall,medicine,male,1886-03-08,US,USA,Edward C. Kendall,08-03
+255,1950,Kurt,Alder,chemistry,male,10-07-1902,PL,Poland,Kurt Alder,10-07
+256,1950,Cecil,Powell,physics,male,05-12-1903,GB,United Kingdom,Cecil Powell,05-12
+257,1950,Otto,Diels,chemistry,male,1876-01-23,DE,Germany,Otto Diels,23-01
+258,1951,Léon,Jouhaux,peace,male,1879-07-01,FR,France,Léon Jouhaux,01-07
+259,1951,Pär,Lagerkvist,literature,male,1891-05-23,SE,Sweden,Pär Lagerkvist,23-05
+260,1951,Ernest T.S.,Walton,physics,male,06-10-1903,IE,Ireland,Ernest T.S. Walton,06-10
+261,1951,John,Cockcroft,physics,male,1897-05-27,GB,United Kingdom,John Cockcroft,27-05
+262,1951,Edwin M.,McMillan,chemistry,male,18-09-1907,US,USA,Edwin M. McMillan,18-09
+263,1951,Max,Theiler,medicine,male,1899-01-30,ZA,South Africa,Max Theiler,30-01
+264,1951,Glenn T.,Seaborg,chemistry,male,19-04-1912,US,USA,Glenn T. Seaborg,19-04
+265,1952,Felix,Bloch,physics,male,23-10-1905,CH,Switzerland,Felix Bloch,23-10
+266,1952,Richard L.M.,Synge,chemistry,male,28-10-1914,GB,United Kingdom,Richard L.M. Synge,28-10
+267,1952,Albert,Schweitzer,peace,male,1875-01-14,FR,France,Albert Schweitzer,14-01
+268,1952,Selman A.,Waksman,medicine,male,1888-07-22,UA,Ukraine,Selman A. Waksman,22-07
+269,1952,Archer J.P.,Martin,chemistry,male,01-03-1910,GB,United Kingdom,Archer J.P. Martin,01-03
+270,1952,E. M.,Purcell,physics,male,30-08-1912,US,USA,E. M. Purcell,30-08
+271,1952,François,Mauriac,literature,male,1885-10-11,FR,France,François Mauriac,11-10
+272,1953,George C.,Marshall,peace,male,1880-12-31,US,USA,George C. Marshall,31-12
+273,1953,Hans,Krebs,medicine,male,25-08-1900,DE,Germany,Hans Krebs,25-08
+274,1953,Fritz,Lipmann,medicine,male,1899-06-12,RU,Russia,Fritz Lipmann,12-06
+275,1953,Frits,Zernike,physics,male,1888-07-16,NL,the Netherlands,Frits Zernike,16-07
+276,1953,Hermann,Staudinger,chemistry,male,1881-03-23,DE,Germany,Hermann Staudinger,23-03
+277,1953,Winston,Churchill,literature,male,1874-11-30,GB,United Kingdom,Winston Churchill,30-11
+278,1954,John F.,Enders,medicine,male,1897-02-10,US,USA,John F. Enders,10-02
+279,1954,Thomas H.,Weller,medicine,male,15-06-1915,US,USA,Thomas H. Weller,15-06
+280,1954,Frederick C.,Robbins,medicine,male,25-08-1916,US,USA,Frederick C. Robbins,25-08
+281,1954,Linus,Pauling,chemistry,male,28-02-1901,US,USA,Linus Pauling,28-02
+282,1954,Max,Born,physics,male,1882-12-11,PL,Poland,Max Born,11-12
+283,1954,Walther,Bothe,physics,male,1891-01-08,DE,Germany,Walther Bothe,08-01
+284,1954,Ernest,Hemingway,literature,male,1899-07-21,US,USA,Ernest Hemingway,21-07
+286,1955,Halldór,Laxness,literature,male,23-04-1902,IS,Iceland,Halldór Laxness,23-04
+287,1955,Polykarp,Kusch,physics,male,26-01-1911,DE,Germany,Polykarp Kusch,26-01
+288,1955,Willis E.,Lamb,physics,male,12-07-1913,US,USA,Willis E. Lamb,12-07
+289,1955,Hugo,Theorell,medicine,male,06-07-1903,SE,Sweden,Hugo Theorell,06-07
+290,1955,Vincent,du Vigneaud,chemistry,male,18-05-1901,US,USA,Vincent du Vigneaud,18-05
+291,1956,Werner,Forssmann,medicine,male,29-08-1904,DE,Germany,Werner Forssmann,29-08
+292,1956,André F.,Cournand,medicine,male,1895-09-24,FR,France,André F. Cournand,24-09
+293,1956,Walter H.,Brattain,physics,male,10-02-1902,CN,China,Walter H. Brattain,10-02
+294,1956,Nikolay,Semenov,chemistry,male,1896-04-03,RU,Russia,Nikolay Semenov,03-04
+295,1956,Sir Cyril,Hinshelwood,chemistry,male,1897-05-19,GB,United Kingdom,Sir Cyril Hinshelwood,19-05
+296,1956,John,Bardeen,physics,male,23-05-1908,US,USA,John Bardeen,23-05
+297,1956,William B.,Shockley,physics,male,13-02-1910,GB,United Kingdom,William B. Shockley,13-02
+298,1956,Dickinson W.,Richards,medicine,male,1895-10-30,US,USA,Dickinson W. Richards,30-10
+299,1956,Juan Ramón,Jiménez,literature,male,1881-12-24,ES,Spain,Juan Ramón Jiménez,24-12
+300,1957,Chen Ning,Yang,physics,male,22-09-1922,CN,China,Chen Ning Yang,22-09
+301,1957,Lester Bowles,Pearson,peace,male,1897-04-23,CA,Canada,Lester Bowles Pearson,23-04
+302,1957,Lord,Todd,chemistry,male,02-10-1907,GB,Scotland,Lord Todd,02-10
+303,1957,Tsung-Dao,Lee,physics,male,24-11-1926,CN,China,Tsung-Dao Lee,24-11
+304,1957,Albert,Camus,literature,male,07-11-1913,DZ,Algeria,Albert Camus,07-11
+305,1957,Daniel,Bovet,medicine,male,23-03-1907,CH,Switzerland,Daniel Bovet,23-03
+306,1958,Frederick,Sanger,chemistry,male,13-08-1918,GB,United Kingdom,Frederick Sanger,13-08
+307,1958,Georges,Pire,peace,male,10-02-1910,BE,Belgium,Georges Pire,10-02
+308,1958,Edward,Tatum,medicine,male,14-12-1909,US,USA,Edward Tatum,14-12
+309,1958,Joshua,Lederberg,medicine,male,23-05-1925,US,USA,Joshua Lederberg,23-05
+310,1958,Boris,Pasternak,literature,male,1890-02-10,RU,Russia,Boris Pasternak,10-02
+311,1958,Il´ja M.,Frank,physics,male,23-10-1908,RU,Russia,Il´ja M. Frank,23-10
+312,1958,Igor Y.,Tamm,physics,male,1895-07-08,RU,Russia,Igor Y. Tamm,08-07
+313,1958,Pavel A.,Cherenkov,physics,male,28-07-1904,RU,Russia,Pavel A. Cherenkov,28-07
+314,1958,George,Beadle,medicine,male,22-10-1903,US,USA,George Beadle,22-10
+315,1959,Arthur,Kornberg,medicine,male,03-03-1918,US,USA,Arthur Kornberg,03-03
+316,1959,Jaroslav,Heyrovsky,chemistry,male,1890-12-20,CZ,Czech Republic,Jaroslav Heyrovsky,20-12
+317,1959,Owen,Chamberlain,physics,male,10-07-1920,US,USA,Owen Chamberlain,10-07
+318,1959,Emilio,Segrè,physics,male,01-02-1905,IT,Italy,Emilio Segrè,01-02
+319,1959,Severo,Ochoa,medicine,male,24-09-1905,ES,Spain,Severo Ochoa,24-09
+320,1959,Philip,Noel-Baker,peace,male,1889-11-01,GB,United Kingdom,Philip Noel-Baker,01-11
+321,1959,Salvatore,Quasimodo,literature,male,20-08-1901,IT,Italy,Salvatore Quasimodo,20-08
+322,1960,Peter,Medawar,medicine,male,28-02-1915,BR,Brazil,Peter Medawar,28-02
+323,1960,Donald A.,Glaser,physics,male,21-09-1926,US,USA,Donald A. Glaser,21-09
+324,1960,Sir Frank Macfarlane,Burnet,medicine,male,1899-09-03,AU,Australia,Sir Frank Macfarlane Burnet,03-09
+325,1960,Saint-John,Perse,literature,male,1887-05-31,GP,Guadeloupe Island,Saint-John Perse,31-05
+327,1960,Willard F.,Libby,chemistry,male,17-12-1908,US,USA,Willard F. Libby,17-12
+328,1961,Rudolf,Mössbauer,physics,male,31-01-1929,DE,Germany,Rudolf Mössbauer,31-01
+329,1961,Dag,Hammarskjöld,peace,male,29-07-1905,SE,Sweden,Dag Hammarskjöld,29-07
+330,1961,Georg,von Békésy,medicine,male,1899-06-03,HU,Hungary,Georg von Békésy,03-06
+331,1961,Ivo,Andric,literature,male,1892-10-10,BA,Bosnia and Herzegovina,Ivo Andric,10-10
+332,1961,Melvin,Calvin,chemistry,male,08-04-1911,US,USA,Melvin Calvin,08-04
+333,1961,Robert,Hofstadter,physics,male,05-02-1915,US,USA,Robert Hofstadter,05-02
+334,1962,Maurice,Wilkins,medicine,male,15-12-1916,NZ,New Zealand,Maurice Wilkins,15-12
+335,1962,James,Watson,medicine,male,06-04-1928,US,USA,James Watson,06-04
+336,1962,Francis,Crick,medicine,male,08-06-1916,GB,United Kingdom,Francis Crick,08-06
+337,1962,Linus,Pauling,peace,male,28-02-1901,US,USA,Linus Pauling,28-02
+338,1962,John C.,Kendrew,chemistry,male,24-03-1917,GB,United Kingdom,John C. Kendrew,24-03
+339,1962,Max F.,Perutz,chemistry,male,19-05-1914,AT,Austria,Max F. Perutz,19-05
+340,1962,Lev,Landau,physics,male,22-01-1908,AZ,Azerbaijan,Lev Landau,22-01
+341,1962,John,Steinbeck,literature,male,27-02-1902,US,USA,John Steinbeck,27-02
+342,1963,Andrew,Huxley,medicine,male,22-11-1917,GB,United Kingdom,Andrew Huxley,22-11
+343,1963,Alan,Hodgkin,medicine,male,05-02-1914,GB,United Kingdom,Alan Hodgkin,05-02
+344,1963,Sir John,Eccles,medicine,male,27-01-1903,AU,Australia,Sir John Eccles,27-01
+345,1963,J. Hans D.,Jensen,physics,male,25-06-1907,DE,Germany,J. Hans D. Jensen,25-06
+346,1963,Eugene,Wigner,physics,male,17-11-1902,HU,Hungary,Eugene Wigner,17-11
+349,1963,Giorgos,Seferis,literature,male,13-03-1900,TR,Turkey,Giorgos Seferis,13-03
+350,1963,Maria,Goeppert Mayer,physics,female,28-06-1906,PL,Poland,Maria Goeppert Mayer,28-06
+351,1963,Karl,Ziegler,chemistry,male,1898-11-26,DE,Germany,Karl Ziegler,26-11
+352,1963,Giulio,Natta,chemistry,male,26-02-1903,IT,Italy,Giulio Natta,26-02
+353,1964,Nicolay G.,Basov,physics,male,14-12-1922,RU,Russia,Nicolay G. Basov,14-12
+354,1964,Jean-Paul,Sartre,literature,male,21-06-1905,FR,France,Jean-Paul Sartre,21-06
+355,1964,Martin Luther,King Jr.,peace,male,15-01-1929,US,USA,Martin Luther King Jr.,15-01
+356,1964,Aleksandr M.,Prokhorov,physics,male,11-07-1916,AU,Australia,Aleksandr M. Prokhorov,11-07
+357,1964,Feodor,Lynen,medicine,male,06-04-1911,DE,Germany,Feodor Lynen,06-04
+358,1964,Charles H.,Townes,physics,male,28-07-1915,US,USA,Charles H. Townes,28-07
+359,1964,Konrad,Bloch,medicine,male,21-01-1912,PL,Poland,Konrad Bloch,21-01
+360,1964,Dorothy Crowfoot,Hodgkin,chemistry,female,12-05-1910,EG,Egypt,Dorothy Crowfoot Hodgkin,12-05
+361,1965,Robert B.,Woodward,chemistry,male,10-04-1917,US,USA,Robert B. Woodward,10-04
+362,1965,François,Jacob,medicine,male,17-06-1920,FR,France,François Jacob,17-06
+363,1965,André,Lwoff,medicine,male,08-05-1902,FR,France,André Lwoff,08-05
+364,1965,Jacques,Monod,medicine,male,09-02-1910,FR,France,Jacques Monod,09-02
+366,1965,Sin-Itiro,Tomonaga,physics,male,31-03-1906,JP,Japan,Sin-Itiro Tomonaga,31-03
+367,1965,Mikhail,Sholokhov,literature,male,24-05-1905,RU,Russia,Mikhail Sholokhov,24-05
+368,1965,Julian,Schwinger,physics,male,12-02-1918,US,USA,Julian Schwinger,12-02
+369,1965,Richard P.,Feynman,physics,male,11-05-1918,US,USA,Richard P. Feynman,11-05
+370,1966,Charles B.,Huggins,medicine,male,22-09-1901,CA,Canada,Charles B. Huggins,22-09
+371,1966,Shmuel,Agnon,literature,male,1888-07-17,UA,Ukraine,Shmuel Agnon,17-07
+372,1966,Robert S.,Mulliken,chemistry,male,1896-06-07,US,USA,Robert S. Mulliken,07-06
+373,1966,Peyton,Rous,medicine,male,1879-10-05,US,USA,Peyton Rous,05-10
+374,1966,Nelly,Sachs,literature,female,1891-12-10,DE,Germany,Nelly Sachs,10-12
+375,1966,Alfred,Kastler,physics,male,03-05-1902,FR,France,Alfred Kastler,03-05
+376,1967,Ragnar,Granit,medicine,male,30-10-1900,FI,Finland,Ragnar Granit,30-10
+377,1967,George,Wald,medicine,male,18-11-1906,US,USA,George Wald,18-11
+378,1967,George,Porter,chemistry,male,06-12-1920,GB,United Kingdom,George Porter,06-12
+379,1967,Miguel Angel,Asturias,literature,male,1899-10-19,GT,Guatemala,Miguel Angel Asturias,19-10
+380,1967,Ronald G.W.,Norrish,chemistry,male,1897-11-09,GB,United Kingdom,Ronald G.W. Norrish,09-11
+381,1967,Manfred,Eigen,chemistry,male,09-05-1927,DE,Germany,Manfred Eigen,09-05
+382,1967,Keffer,Hartline,medicine,male,22-12-1903,US,USA,Keffer Hartline,22-12
+383,1967,Hans,Bethe,physics,male,02-07-1906,FR,France,Hans Bethe,02-07
+384,1968,H. Gobind,Khorana,medicine,male,09-01-1922,IN,India,H. Gobind Khorana,09-01
+385,1968,Marshall W.,Nirenberg,medicine,male,10-04-1927,US,USA,Marshall W. Nirenberg,10-04
+386,1968,Lars,Onsager,chemistry,male,27-11-1903,NO,Norway,Lars Onsager,27-11
+387,1968,René,Cassin,peace,male,1887-10-05,FR,France,René Cassin,05-10
+388,1968,Robert W.,Holley,medicine,male,28-01-1922,US,USA,Robert W. Holley,28-01
+389,1968,Luis,Alvarez,physics,male,13-06-1911,US,USA,Luis Alvarez,13-06
+390,1968,Yasunari,Kawabata,literature,male,1899-06-11,JP,Japan,Yasunari Kawabata,11-06
+391,1969,Derek,Barton,chemistry,male,08-09-1918,GB,United Kingdom,Derek Barton,08-09
+392,1969,Samuel,Beckett,literature,male,13-04-1906,IE,Ireland,Samuel Beckett,13-04
+393,1969,Ragnar,Frisch,economics,male,1895-03-03,NO,Norway,Ragnar Frisch,03-03
+394,1969,Murray,Gell-Mann,physics,male,15-09-1929,US,USA,Murray Gell-Mann,15-09
+395,1969,Jan,Tinbergen,economics,male,12-04-1903,NL,the Netherlands,Jan Tinbergen,12-04
+397,1969,Salvador E.,Luria,medicine,male,13-08-1912,IT,Italy,Salvador E. Luria,13-08
+398,1969,Alfred D.,Hershey,medicine,male,04-12-1908,US,USA,Alfred D. Hershey,04-12
+399,1969,Max,Delbrück,medicine,male,04-09-1906,DE,Germany,Max Delbrück,04-09
+400,1969,Odd,Hassel,chemistry,male,1897-05-17,NO,Norway,Odd Hassel,17-05
+401,1970,Hannes,Alfvén,physics,male,30-05-1908,SE,Sweden,Hannes Alfvén,30-05
+402,1970,Louis,Néel,physics,male,22-11-1904,FR,France,Louis Néel,22-11
+403,1970,Norman,Borlaug,peace,male,25-03-1914,US,USA,Norman Borlaug,25-03
+404,1970,Luis,Leloir,chemistry,male,06-09-1906,FR,France,Luis Leloir,06-09
+405,1970,Alexandr,Solzhenitsyn,literature,male,11-12-1918,RU,Russia,Alexandr Solzhenitsyn,11-12
+406,1970,Paul A.,Samuelson,economics,male,15-05-1915,US,USA,Paul A. Samuelson,15-05
+407,1970,Julius,Axelrod,medicine,male,30-05-1912,US,USA,Julius Axelrod,30-05
+408,1970,Ulf,von Euler,medicine,male,07-02-1905,SE,Sweden,Ulf von Euler,07-02
+409,1970,Sir Bernard,Katz,medicine,male,26-03-1911,DE,Germany,Sir Bernard Katz,26-03
+410,1971,Willy,Brandt,peace,male,18-12-1913,DE,Germany,Willy Brandt,18-12
+411,1971,Dennis,Gabor,physics,male,05-06-1900,HU,Hungary,Dennis Gabor,05-06
+412,1971,Simon,Kuznets,economics,male,30-04-1901,BY,Belarus,Simon Kuznets,30-04
+413,1971,Gerhard,Herzberg,chemistry,male,25-12-1904,DE,Germany,Gerhard Herzberg,25-12
+414,1971,Earl W.,Sutherland Jr.,medicine,male,19-11-1915,US,USA,Earl W. Sutherland Jr.,19-11
+415,1971,Pablo,Neruda,literature,male,12-07-1904,CL,Chile,Pablo Neruda,12-07
+416,1972,Heinrich,Böll,literature,male,21-12-1917,DE,Germany,Heinrich Böll,21-12
+417,1972,Gerald M.,Edelman,medicine,male,01-07-1929,US,USA,Gerald M. Edelman,01-07
+418,1972,Leon N.,Cooper,physics,male,28-02-1930,US,USA,Leon N. Cooper,28-02
+419,1972,Stanford,Moore,chemistry,male,04-09-1913,US,USA,Stanford Moore,04-09
+420,1972,Christian,Anfinsen,chemistry,male,26-03-1916,US,USA,Christian Anfinsen,26-03
+421,1972,William H.,Stein,chemistry,male,25-06-1911,US,USA,William H. Stein,25-06
+422,1972,John,Bardeen,physics,male,23-05-1908,US,USA,John Bardeen,23-05
+423,1972,Kenneth J.,Arrow,economics,male,23-08-1921,US,USA,Kenneth J. Arrow,23-08
+424,1972,John R.,Hicks,economics,male,08-04-1904,GB,United Kingdom,John R. Hicks,08-04
+425,1972,Robert,Schrieffer,physics,male,31-05-1931,US,USA,Robert Schrieffer,31-05
+426,1972,Rodney R.,Porter,medicine,male,08-10-1917,GB,United Kingdom,Rodney R. Porter,08-10
+427,1973,Brian D.,Josephson,physics,male,04-01-1940,GB,United Kingdom,Brian D. Josephson,04-01
+428,1973,Ernst Otto,Fischer,chemistry,male,10-11-1918,DE,Germany,Ernst Otto Fischer,10-11
+429,1973,Geoffrey,Wilkinson,chemistry,male,14-07-1921,GB,United Kingdom,Geoffrey Wilkinson,14-07
+430,1973,Le Duc Tho,,peace,male,14-10-1911,VN,Vietnam,,14-10
+431,1973,Wassily,Leontief,economics,male,05-08-1906,RU,Russia,Wassily Leontief,05-08
+432,1973,Konrad,Lorenz,medicine,male,07-11-1903,AT,Austria,Konrad Lorenz,07-11
+433,1973,Leo,Esaki,physics,male,12-03-1925,JP,Japan,Leo Esaki,12-03
+434,1973,Ivar,Giaever,physics,male,05-04-1929,NO,Norway,Ivar Giaever,05-04
+435,1973,Karl,von Frisch,medicine,male,1886-11-20,AT,Austria,Karl von Frisch,20-11
+436,1973,Patrick,White,literature,male,28-05-1912,GB,United Kingdom,Patrick White,28-05
+437,1973,Henry,Kissinger,peace,male,27-05-1923,DE,Germany,Henry Kissinger,27-05
+438,1973,Nikolaas,Tinbergen,medicine,male,15-04-1907,NL,the Netherlands,Nikolaas Tinbergen,15-04
+439,1974,Paul J.,Flory,chemistry,male,19-06-1910,US,USA,Paul J. Flory,19-06
+440,1974,Eyvind,Johnson,literature,male,29-07-1900,SE,Sweden,Eyvind Johnson,29-07
+441,1974,Gunnar,Myrdal,economics,male,1898-12-06,SE,Sweden,Gunnar Myrdal,06-12
+442,1974,Harry,Martinson,literature,male,06-05-1904,SE,Sweden,Harry Martinson,06-05
+443,1974,Christian,de Duve,medicine,male,02-10-1917,GB,United Kingdom,Christian de Duve,02-10
+444,1974,Antony,Hewish,physics,male,11-05-1924,GB,United Kingdom,Antony Hewish,11-05
+445,1974,Martin,Ryle,physics,male,27-09-1918,GB,United Kingdom,Martin Ryle,27-09
+446,1974,George E.,Palade,medicine,male,19-11-1912,RO,Romania,George E. Palade,19-11
+447,1974,Eisaku,Sato,peace,male,27-03-1901,JP,Japan,Eisaku Sato,27-03
+448,1974,Seán,MacBride,peace,male,26-01-1904,FR,France,Seán MacBride,26-01
+449,1974,Friedrich,von Hayek,economics,male,1899-05-08,AT,Austria,Friedrich von Hayek,08-05
+450,1974,Albert,Claude,medicine,male,1898-08-24,BE,Belgium,Albert Claude,24-08
+451,1975,John,Cornforth,chemistry,male,07-09-1917,AU,Australia,John Cornforth,07-09
+452,1975,Vladimir,Prelog,chemistry,male,23-07-1906,BA,Bosnia and Herzegovina,Vladimir Prelog,23-07
+453,1975,Howard M.,Temin,medicine,male,10-12-1934,US,USA,Howard M. Temin,10-12
+454,1975,Aage N.,Bohr,physics,male,19-06-1922,DK,Denmark,Aage N. Bohr,19-06
+455,1975,Ben R.,Mottelson,physics,male,09-07-1926,US,USA,Ben R. Mottelson,09-07
+456,1975,James,Rainwater,physics,male,09-12-1917,US,USA,James Rainwater,09-12
+457,1975,Tjalling C.,Koopmans,economics,male,28-08-1910,NL,the Netherlands,Tjalling C. Koopmans,28-08
+458,1975,Leonid Vitaliyevich,Kantorovich,economics,male,19-01-1912,RU,Russia,Leonid Vitaliyevich Kantorovich,19-01
+459,1975,Eugenio,Montale,literature,male,1896-10-12,IT,Italy,Eugenio Montale,12-10
+460,1975,David,Baltimore,medicine,male,07-03-1938,US,USA,David Baltimore,07-03
+461,1975,Renato,Dulbecco,medicine,male,22-02-1914,IT,Italy,Renato Dulbecco,22-02
+462,1975,Andrei,Sakharov,peace,male,21-05-1921,RU,Russia,Andrei Sakharov,21-05
+463,1976,Milton,Friedman,economics,male,31-07-1912,US,USA,Milton Friedman,31-07
+464,1976,William,Lipscomb,chemistry,male,09-12-1919,US,USA,William Lipscomb,09-12
+465,1976,Mairead,Corrigan,peace,female,27-01-1944,GB,Northern Ireland,Mairead Corrigan,27-01
+466,1976,Burton,Richter,physics,male,22-03-1931,US,USA,Burton Richter,22-03
+467,1976,Samuel C.C.,Ting,physics,male,27-01-1936,US,USA,Samuel C.C. Ting,27-01
+468,1976,Baruch S.,Blumberg,medicine,male,28-07-1925,US,USA,Baruch S. Blumberg,28-07
+469,1976,D. Carleton,Gajdusek,medicine,male,09-09-1923,US,USA,D. Carleton Gajdusek,09-09
+470,1976,Betty,Williams,peace,female,22-05-1943,GB,Northern Ireland,Betty Williams,22-05
+471,1976,Saul,Bellow,literature,male,10-06-1915,CA,Canada,Saul Bellow,10-06
+472,1977,Philip W.,Anderson,physics,male,13-12-1923,US,USA,Philip W. Anderson,13-12
+473,1977,James E.,Meade,economics,male,23-06-1907,GB,United Kingdom,James E. Meade,23-06
+474,1977,Bertil,Ohlin,economics,male,1899-04-23,SE,Sweden,Bertil Ohlin,23-04
+475,1977,Sir Nevill F.,Mott,physics,male,30-09-1905,GB,United Kingdom,Sir Nevill F. Mott,30-09
+476,1977,John H.,Van Vleck,physics,male,1899-03-13,US,USA,John H. Van Vleck,13-03
+477,1977,Andrew V.,Schally,medicine,male,30-11-1926,LT,Lithuania,Andrew V. Schally,30-11
+478,1977,Rosalyn,Yalow,medicine,female,19-07-1921,US,USA,Rosalyn Yalow,19-07
+479,1977,Ilya,Prigogine,chemistry,male,25-01-1917,RU,Russia,Ilya Prigogine,25-01
+480,1977,Roger,Guillemin,medicine,male,11-01-1924,FR,France,Roger Guillemin,11-01
+482,1977,Vicente,Aleixandre,literature,male,1898-04-26,ES,Spain,Vicente Aleixandre,26-04
+483,1978,Anwar,al-Sadat,peace,male,25-12-1918,EG,Egypt,Anwar al-Sadat,25-12
+484,1978,Menachem,Begin,peace,male,16-08-1913,BY,Belarus,Menachem Begin,16-08
+485,1978,Arno,Penzias,physics,male,26-04-1933,DE,Germany,Arno Penzias,26-04
+486,1978,Hamilton O.,Smith,medicine,male,23-08-1931,US,USA,Hamilton O. Smith,23-08
+487,1978,Daniel,Nathans,medicine,male,30-10-1928,US,USA,Daniel Nathans,30-10
+488,1978,Werner,Arber,medicine,male,03-06-1929,CH,Switzerland,Werner Arber,03-06
+489,1978,Robert Woodrow,Wilson,physics,male,10-01-1936,US,USA,Robert Woodrow Wilson,10-01
+490,1978,Isaac Bashevis,Singer,literature,male,14-07-1904,PL,Poland,Isaac Bashevis Singer,14-07
+491,1978,Herbert,Simon,economics,male,15-06-1916,US,USA,Herbert Simon,15-06
+492,1978,Pyotr,Kapitsa,physics,male,1894-07-09,RU,Russia,Pyotr Kapitsa,09-07
+493,1978,Peter,Mitchell,chemistry,male,29-09-1920,GB,United Kingdom,Peter Mitchell,29-09
+494,1979,Georg,Wittig,chemistry,male,1897-06-16,DE,Germany,Georg Wittig,16-06
+495,1979,Theodore W.,Schultz,economics,male,30-04-1902,US,USA,Theodore W. Schultz,30-04
+496,1979,Sir Arthur,Lewis,economics,male,23-01-1915,LC,Saint Lucia,Sir Arthur Lewis,23-01
+497,1979,Anjezë Gonxhe,Bojaxhiu,peace,female,26-08-1910,MK,North Macedonia,Anjezë Gonxhe Bojaxhiu,26-08
+498,1979,Herbert C.,Brown,chemistry,male,22-05-1912,GB,United Kingdom,Herbert C. Brown,22-05
+499,1979,Sheldon,Glashow,physics,male,05-12-1932,US,USA,Sheldon Glashow,05-12
+500,1979,Steven,Weinberg,physics,male,03-05-1933,US,USA,Steven Weinberg,03-05
+501,1979,Godfrey N.,Hounsfield,medicine,male,28-08-1919,GB,United Kingdom,Godfrey N. Hounsfield,28-08
+502,1979,Allan M.,Cormack,medicine,male,23-02-1924,ZA,South Africa,Allan M. Cormack,23-02
+503,1979,Odysseus,Elytis,literature,male,02-11-1911,GR,Greece,Odysseus Elytis,02-11
+504,1979,Abdus,Salam,physics,male,29-01-1926,PK,Pakistan,Abdus Salam,29-01
+505,1980,Frederick,Sanger,chemistry,male,13-08-1918,GB,United Kingdom,Frederick Sanger,13-08
+506,1980,Jean,Dausset,medicine,male,19-10-1916,FR,France,Jean Dausset,19-10
+507,1980,Baruj,Benacerraf,medicine,male,29-10-1920,VE,Venezuela,Baruj Benacerraf,29-10
+508,1980,Lawrence R.,Klein,economics,male,14-09-1920,US,USA,Lawrence R. Klein,14-09
+509,1980,Paul,Berg,chemistry,male,30-06-1926,US,USA,Paul Berg,30-06
+510,1980,Adolfo,Pérez Esquivel,peace,male,26-11-1931,AR,Argentina,Adolfo Pérez Esquivel,26-11
+511,1980,Walter,Gilbert,chemistry,male,21-03-1932,US,USA,Walter Gilbert,21-03
+512,1980,Val,Fitch,physics,male,10-03-1923,US,USA,Val Fitch,10-03
+513,1980,James,Cronin,physics,male,29-09-1931,US,USA,James Cronin,29-09
+514,1980,Czeslaw,Milosz,literature,male,30-06-1911,LT,Lithuania,Czeslaw Milosz,30-06
+515,1980,George D.,Snell,medicine,male,19-12-1903,US,USA,George D. Snell,19-12
+516,1981,James,Tobin,economics,male,05-03-1918,US,USA,James Tobin,05-03
+517,1981,Elias,Canetti,literature,male,25-07-1905,BG,Bulgaria,Elias Canetti,25-07
+518,1981,David H.,Hubel,medicine,male,27-02-1926,CA,Canada,David H. Hubel,27-02
+519,1981,Nicolaas,Bloembergen,physics,male,11-03-1920,NL,the Netherlands,Nicolaas Bloembergen,11-03
+521,1981,Roger W.,Sperry,medicine,male,20-08-1913,US,USA,Roger W. Sperry,20-08
+522,1981,Kenichi,Fukui,chemistry,male,04-10-1918,JP,Japan,Kenichi Fukui,04-10
+523,1981,Roald,Hoffmann,chemistry,male,18-07-1937,UA,Ukraine,Roald Hoffmann,18-07
+524,1981,Torsten N.,Wiesel,medicine,male,03-06-1924,SE,Sweden,Torsten N. Wiesel,03-06
+525,1981,Arthur L.,Schawlow,physics,male,05-05-1921,US,USA,Arthur L. Schawlow,05-05
+526,1981,Kai M.,Siegbahn,physics,male,20-04-1918,SE,Sweden,Kai M. Siegbahn,20-04
+527,1982,George J.,Stigler,economics,male,17-01-1911,US,USA,George J. Stigler,17-01
+528,1982,Alva,Myrdal,peace,female,31-01-1902,SE,Sweden,Alva Myrdal,31-01
+529,1982,Gabriel,García Márquez,literature,male,06-03-1927,CO,Colombia,Gabriel García Márquez,06-03
+530,1982,John R.,Vane,medicine,male,29-03-1927,GB,United Kingdom,John R. Vane,29-03
+531,1982,Aaron,Klug,chemistry,male,11-08-1926,LT,Lithuania,Aaron Klug,11-08
+532,1982,Sune K.,Bergström,medicine,male,10-01-1916,SE,Sweden,Sune K. Bergström,10-01
+533,1982,Kenneth G.,Wilson,physics,male,08-06-1936,US,USA,Kenneth G. Wilson,08-06
+534,1982,Alfonso,García Robles,peace,male,20-03-1911,MX,Mexico,Alfonso García Robles,20-03
+535,1982,Bengt I.,Samuelsson,medicine,male,21-05-1934,SE,Sweden,Bengt I. Samuelsson,21-05
+536,1983,Lech,Walesa,peace,male,29-09-1943,PL,Poland,Lech Walesa,29-09
+537,1983,Henry,Taube,chemistry,male,30-11-1915,CA,Canada,Henry Taube,30-11
+538,1983,Barbara,McClintock,medicine,female,16-06-1902,US,USA,Barbara McClintock,16-06
+539,1983,Gerard,Debreu,economics,male,04-07-1921,FR,France,Gerard Debreu,04-07
+540,1983,William,Golding,literature,male,19-09-1911,GB,United Kingdom,William Golding,19-09
+541,1983,William A.,Fowler,physics,male,09-08-1911,US,USA,William A. Fowler,09-08
+542,1983,Subramanyan,Chandrasekhar,physics,male,19-10-1910,PK,Pakistan,Subramanyan Chandrasekhar,19-10
+543,1984,Niels K.,Jerne,medicine,male,23-12-1911,GB,United Kingdom,Niels K. Jerne,23-12
+544,1984,Georges J.F.,Köhler,medicine,male,17-04-1946,DE,Germany,Georges J.F. Köhler,17-04
+545,1984,César,Milstein,medicine,male,08-10-1927,AR,Argentina,César Milstein,08-10
+546,1984,Jaroslav,Seifert,literature,male,23-09-1901,CZ,Czech Republic,Jaroslav Seifert,23-09
+547,1984,Desmond,Tutu,peace,male,07-10-1931,ZA,South Africa,Desmond Tutu,07-10
+548,1984,Bruce,Merrifield,chemistry,male,15-07-1921,US,USA,Bruce Merrifield,15-07
+549,1984,Simon,van der Meer,physics,male,24-11-1925,NL,the Netherlands,Simon van der Meer,24-11
+550,1984,Carlo,Rubbia,physics,male,31-03-1934,IT,Italy,Carlo Rubbia,31-03
+551,1984,Richard,Stone,economics,male,30-08-1913,GB,United Kingdom,Richard Stone,30-08
+553,1985,Klaus,von Klitzing,physics,male,28-06-1943,PL,Poland,Klaus von Klitzing,28-06
+554,1985,Joseph L.,Goldstein,medicine,male,18-04-1940,US,USA,Joseph L. Goldstein,18-04
+555,1985,Michael S.,Brown,medicine,male,13-04-1941,US,USA,Michael S. Brown,13-04
+556,1985,Herbert A.,Hauptman,chemistry,male,14-02-1917,US,USA,Herbert A. Hauptman,14-02
+557,1985,Jerome,Karle,chemistry,male,18-06-1918,US,USA,Jerome Karle,18-06
+558,1985,Claude,Simon,literature,male,10-10-1913,MG,Madagascar,Claude Simon,10-10
+559,1985,Franco,Modigliani,economics,male,18-06-1918,IT,Italy,Franco Modigliani,18-06
+560,1986,Dudley R.,Herschbach,chemistry,male,18-06-1932,US,USA,Dudley R. Herschbach,18-06
+561,1986,John C.,Polanyi,chemistry,male,23-01-1929,DE,Germany,John C. Polanyi,23-01
+562,1986,Gerd,Binnig,physics,male,20-07-1947,DE,Germany,Gerd Binnig,20-07
+563,1986,Heinrich,Rohrer,physics,male,06-06-1933,CH,Switzerland,Heinrich Rohrer,06-06
+564,1986,Ernst,Ruska,physics,male,25-12-1906,DE,Germany,Ernst Ruska,25-12
+565,1986,Yuan T.,Lee,chemistry,male,19-11-1936,TW,Taiwan,Yuan T. Lee,19-11
+566,1986,Rita,Levi-Montalcini,medicine,female,22-04-1909,IT,Italy,Rita Levi-Montalcini,22-04
+567,1986,Stanley,Cohen,medicine,male,17-11-1922,US,USA,Stanley Cohen,17-11
+568,1986,Elie,Wiesel,peace,male,30-09-1928,RO,Romania,Elie Wiesel,30-09
+569,1986,Wole,Soyinka,literature,male,13-07-1934,NG,Nigeria,Wole Soyinka,13-07
+570,1986,James M.,Buchanan Jr.,economics,male,03-10-1919,US,USA,James M. Buchanan Jr.,03-10
+571,1987,Charles J.,Pedersen,chemistry,male,03-10-1904,KR,South Korea,Charles J. Pedersen,03-10
+572,1987,Joseph,Brodsky,literature,male,24-05-1940,RU,Russia,Joseph Brodsky,24-05
+573,1987,K. Alex,Müller,physics,male,20-04-1927,CH,Switzerland,K. Alex Müller,20-04
+574,1987,Jean-Marie,Lehn,chemistry,male,30-09-1939,FR,France,Jean-Marie Lehn,30-09
+575,1987,J. Georg,Bednorz,physics,male,16-05-1950,DE,Germany,J. Georg Bednorz,16-05
+576,1987,Susumu,Tonegawa,medicine,male,05-09-1939,JP,Japan,Susumu Tonegawa,05-09
+577,1987,Robert M.,Solow,economics,male,23-08-1924,US,USA,Robert M. Solow,23-08
+578,1987,Oscar,Arias Sánchez,peace,male,13-09-1940,CR,Costa Rica,Oscar Arias Sánchez,13-09
+579,1987,Donald J.,Cram,chemistry,male,22-04-1919,US,USA,Donald J. Cram,22-04
+581,1988,Jack,Steinberger,physics,male,25-05-1921,DE,Germany,Jack Steinberger,25-05
+582,1988,Melvin,Schwartz,physics,male,02-11-1932,US,USA,Melvin Schwartz,02-11
+583,1988,Leon M.,Lederman,physics,male,15-07-1922,US,USA,Leon M. Lederman,15-07
+584,1988,George H.,Hitchings,medicine,male,18-04-1905,US,USA,George H. Hitchings,18-04
+585,1988,Hartmut,Michel,chemistry,male,18-07-1948,DE,Germany,Hartmut Michel,18-07
+586,1988,Robert,Huber,chemistry,male,20-02-1937,DE,Germany,Robert Huber,20-02
+587,1988,Johann,Deisenhofer,chemistry,male,30-09-1943,DE,Germany,Johann Deisenhofer,30-09
+588,1988,Naguib,Mahfouz,literature,male,11-12-1911,EG,Egypt,Naguib Mahfouz,11-12
+589,1988,Sir James W.,Black,medicine,male,14-06-1924,GB,Scotland,Sir James W. Black,14-06
+590,1988,Gertrude B.,Elion,medicine,female,23-01-1918,US,USA,Gertrude B. Elion,23-01
+591,1988,Maurice,Allais,economics,male,31-05-1911,FR,France,Maurice Allais,31-05
+592,1989,Thomas R.,Cech,chemistry,male,08-12-1947,US,USA,Thomas R. Cech,08-12
+593,1989,Sidney,Altman,chemistry,male,07-05-1939,CA,Canada,Sidney Altman,07-05
+594,1989,Hans G.,Dehmelt,physics,male,09-09-1922,DE,Germany,Hans G. Dehmelt,09-09
+595,1989,Norman F.,Ramsey,physics,male,27-08-1915,US,USA,Norman F. Ramsey,27-08
+596,1989,J. Michael,Bishop,medicine,male,22-02-1936,US,USA,J. Michael Bishop,22-02
+597,1989,Wolfgang,Paul,physics,male,10-08-1913,DE,Germany,Wolfgang Paul,10-08
+598,1989,Trygve,Haavelmo,economics,male,13-12-1911,NO,Norway,Trygve Haavelmo,13-12
+599,1989,Camilo José,Cela,literature,male,11-05-1916,ES,Spain,Camilo José Cela,11-05
+600,1989,Lhamo,Thondup,peace,male,06-07-1935,CN,China,Lhamo Thondup,06-07
+601,1989,Harold E.,Varmus,medicine,male,18-12-1939,US,USA,Harold E. Varmus,18-12
+602,1990,Octavio,Paz,literature,male,31-03-1914,MX,Mexico,Octavio Paz,31-03
+603,1990,Richard E.,Taylor,physics,male,02-11-1929,CA,Canada,Richard E. Taylor,02-11
+604,1990,Henry W.,Kendall,physics,male,09-12-1926,US,USA,Henry W. Kendall,09-12
+605,1990,Jerome I.,Friedman,physics,male,28-03-1930,US,USA,Jerome I. Friedman,28-03
+606,1990,Harry M.,Markowitz,economics,male,24-08-1927,US,USA,Harry M. Markowitz,24-08
+607,1990,Merton H.,Miller,economics,male,16-05-1923,US,USA,Merton H. Miller,16-05
+608,1990,Joseph E.,Murray,medicine,male,01-04-1919,US,USA,Joseph E. Murray,01-04
+609,1990,Mikhail,Gorbachev,peace,male,02-03-1931,RU,Russia,Mikhail Gorbachev,02-03
+610,1990,E. Donnall,Thomas,medicine,male,15-03-1920,US,USA,E. Donnall Thomas,15-03
+611,1990,William F.,Sharpe,economics,male,16-06-1934,US,USA,William F. Sharpe,16-06
+612,1990,Elias James,Corey,chemistry,male,12-07-1928,US,USA,Elias James Corey,12-07
+613,1991,Ronald H.,Coase,economics,male,29-12-1910,GB,United Kingdom,Ronald H. Coase,29-12
+614,1991,Nadine,Gordimer,literature,female,20-11-1923,ZA,South Africa,Nadine Gordimer,20-11
+615,1991,Bert,Sakmann,medicine,male,12-06-1942,DE,Germany,Bert Sakmann,12-06
+616,1991,Pierre-Gilles,de Gennes,physics,male,24-10-1932,FR,France,Pierre-Gilles de Gennes,24-10
+617,1991,Aung San Suu Kyi,,peace,female,19-06-1945,MM,Myanmar,,19-06
+618,1991,Erwin,Neher,medicine,male,20-03-1944,DE,Germany,Erwin Neher,20-03
+619,1991,Richard R.,Ernst,chemistry,male,14-08-1933,CH,Switzerland,Richard R. Ernst,14-08
+620,1992,Derek,Walcott,literature,male,23-01-1930,LC,Saint Lucia,Derek Walcott,23-01
+621,1992,Edmond H.,Fischer,medicine,male,06-04-1920,CN,China,Edmond H. Fischer,06-04
+622,1992,Rudolph A.,Marcus,chemistry,male,21-07-1923,CA,Canada,Rudolph A. Marcus,21-07
+623,1992,Gary,Becker,economics,male,02-12-1930,US,USA,Gary Becker,02-12
+624,1992,Rigoberta,Menchú Tum,peace,female,09-01-1959,GT,Guatemala,Rigoberta Menchú Tum,09-01
+625,1992,Georges,Charpak,physics,male,01-08-1924,PL,Poland,Georges Charpak,01-08
+626,1992,Edwin G.,Krebs,medicine,male,06-06-1918,US,USA,Edwin G. Krebs,06-06
+627,1993,Russell A.,Hulse,physics,male,28-11-1950,US,USA,Russell A. Hulse,28-11
+628,1993,Joseph H.,Taylor Jr.,physics,male,29-03-1941,US,USA,Joseph H. Taylor Jr.,29-03
+629,1993,Toni,Morrison,literature,female,18-02-1931,US,USA,Toni Morrison,18-02
+630,1993,Douglass C.,North,economics,male,05-11-1920,US,USA,Douglass C. North,05-11
+631,1993,Michael,Smith,chemistry,male,26-04-1932,GB,United Kingdom,Michael Smith,26-04
+632,1993,Phillip A.,Sharp,medicine,male,06-06-1944,US,USA,Phillip A. Sharp,06-06
+633,1993,Richard J.,Roberts,medicine,male,06-09-1943,GB,United Kingdom,Richard J. Roberts,06-09
+634,1993,Kary B.,Mullis,chemistry,male,28-12-1944,US,USA,Kary B. Mullis,28-12
+635,1993,F.W.,de Klerk,peace,male,18-03-1936,ZA,South Africa,F.W. de Klerk,18-03
+636,1993,Robert W.,Fogel,economics,male,01-07-1927,US,USA,Robert W. Fogel,01-07
+637,1993,Nelson,Mandela,peace,male,18-07-1918,ZA,South Africa,Nelson Mandela,18-07
+638,1994,Alfred G.,Gilman,medicine,male,01-07-1941,US,USA,Alfred G. Gilman,01-07
+639,1994,Martin,Rodbell,medicine,male,01-12-1925,US,USA,Martin Rodbell,01-12
+640,1994,George A.,Olah,chemistry,male,22-05-1927,HU,Hungary,George A. Olah,22-05
+641,1994,Bertram N.,Brockhouse,physics,male,15-07-1918,CA,Canada,Bertram N. Brockhouse,15-07
+642,1994,Clifford G.,Shull,physics,male,23-09-1915,US,USA,Clifford G. Shull,23-09
+643,1994,Kenzaburo,Oe,literature,male,31-01-1935,JP,Japan,Kenzaburo Oe,31-01
+644,1994,Yasser,Arafat,peace,male,24-08-1929,EG,Egypt,Yasser Arafat,24-08
+645,1994,Yitzhak,Rabin,peace,male,01-03-1922,IL,Israel,Yitzhak Rabin,01-03
+646,1994,Shimon,Peres,peace,male,16-08-1923,BY,Belarus,Shimon Peres,16-08
+647,1994,John C.,Harsanyi,economics,male,29-05-1920,HU,Hungary,John C. Harsanyi,29-05
+648,1994,John F.,Nash Jr.,economics,male,13-06-1928,US,USA,John F. Nash Jr.,13-06
+649,1994,Reinhard,Selten,economics,male,05-10-1930,PL,Poland,Reinhard Selten,05-10
+650,1995,Frederick,Reines,physics,male,16-03-1918,US,USA,Frederick Reines,16-03
+651,1995,Edward B.,Lewis,medicine,male,20-05-1918,US,USA,Edward B. Lewis,20-05
+652,1995,Paul J.,Crutzen,chemistry,male,03-12-1933,NL,the Netherlands,Paul J. Crutzen,03-12
+653,1995,Mario J.,Molina,chemistry,male,19-03-1943,MX,Mexico,Mario J. Molina,19-03
+654,1995,Robert E.,Lucas Jr.,economics,male,15-09-1937,US,USA,Robert E. Lucas Jr.,15-09
+655,1995,Seamus,Heaney,literature,male,13-04-1939,GB,Northern Ireland,Seamus Heaney,13-04
+656,1995,F. Sherwood,Rowland,chemistry,male,28-06-1927,US,USA,F. Sherwood Rowland,28-06
+657,1995,Christiane,Nüsslein-Volhard,medicine,female,20-10-1942,DE,Germany,Christiane Nüsslein-Volhard,20-10
+658,1995,Joseph,Rotblat,peace,male,04-11-1908,PL,Poland,Joseph Rotblat,04-11
+660,1995,Martin L.,Perl,physics,male,24-06-1927,US,USA,Martin L. Perl,24-06
+661,1995,Eric F.,Wieschaus,medicine,male,08-06-1947,US,USA,Eric F. Wieschaus,08-06
+662,1996,David M.,Lee,physics,male,20-01-1931,US,USA,David M. Lee,20-01
+663,1996,Robert C.,Richardson,physics,male,26-06-1937,US,USA,Robert C. Richardson,26-06
+664,1996,Douglas D.,Osheroff,physics,male,01-08-1945,US,USA,Douglas D. Osheroff,01-08
+665,1996,Peter C.,Doherty,medicine,male,15-10-1940,AU,Australia,Peter C. Doherty,15-10
+666,1996,Rolf M.,Zinkernagel,medicine,male,06-01-1944,CH,Switzerland,Rolf M. Zinkernagel,06-01
+667,1996,Richard E.,Smalley,chemistry,male,06-06-1943,US,USA,Richard E. Smalley,06-06
+668,1996,Wislawa,Szymborska,literature,female,02-07-1923,PL,Poland,Wislawa Szymborska,02-07
+669,1996,Carlos Filipe Ximenes,Belo,peace,male,03-02-1948,TL,East Timor,Carlos Filipe Ximenes Belo,03-02
+670,1996,José,Ramos-Horta,peace,male,26-12-1949,TL,East Timor,José Ramos-Horta,26-12
+671,1996,Robert F.,Curl Jr.,chemistry,male,23-08-1933,US,USA,Robert F. Curl Jr.,23-08
+672,1996,William,Vickrey,economics,male,21-06-1914,CA,Canada,William Vickrey,21-06
+673,1996,Sir Harold,Kroto,chemistry,male,07-10-1939,GB,United Kingdom,Sir Harold Kroto,07-10
+674,1996,James A.,Mirrlees,economics,male,05-07-1936,GB,Scotland,James A. Mirrlees,05-07
+675,1997,Dario,Fo,literature,male,24-03-1926,IT,Italy,Dario Fo,24-03
+676,1997,John E.,Walker,chemistry,male,07-01-1941,GB,United Kingdom,John E. Walker,07-01
+677,1997,Jens C.,Skou,chemistry,male,08-10-1918,DK,Denmark,Jens C. Skou,08-10
+678,1997,Robert C.,Merton,economics,male,31-07-1944,US,USA,Robert C. Merton,31-07
+679,1997,Stanley B.,Prusiner,medicine,male,28-05-1942,US,USA,Stanley B. Prusiner,28-05
+680,1997,William D.,Phillips,physics,male,05-11-1948,US,USA,William D. Phillips,05-11
+681,1997,Myron,Scholes,economics,male,01-07-1941,CA,Canada,Myron Scholes,01-07
+682,1997,Claude,Cohen-Tannoudji,physics,male,01-04-1933,DZ,Algeria,Claude Cohen-Tannoudji,01-04
+683,1997,Steven,Chu,physics,male,28-02-1948,US,USA,Steven Chu,28-02
+684,1997,Jody,Williams,peace,female,09-10-1950,US,USA,Jody Williams,09-10
+686,1997,Paul D.,Boyer,chemistry,male,31-07-1918,US,USA,Paul D. Boyer,31-07
+687,1998,Amartya,Sen,economics,male,03-11-1933,IN,India,Amartya Sen,03-11
+688,1998,Horst L.,Störmer,physics,male,06-04-1949,DE,Germany,Horst L. Störmer,06-04
+689,1998,José,Saramago,literature,male,16-11-1922,PT,Portugal,José Saramago,16-11
+690,1998,Daniel C.,Tsui,physics,male,28-02-1939,CN,China,Daniel C. Tsui,28-02
+691,1998,Walter,Kohn,chemistry,male,09-03-1923,AT,Austria,Walter Kohn,09-03
+692,1998,Robert F.,Furchgott,medicine,male,04-06-1916,US,USA,Robert F. Furchgott,04-06
+693,1998,Louis J.,Ignarro,medicine,male,31-05-1941,US,USA,Louis J. Ignarro,31-05
+694,1998,Ferid,Murad,medicine,male,14-09-1936,US,USA,Ferid Murad,14-09
+695,1998,John,Pople,chemistry,male,31-10-1925,GB,United Kingdom,John Pople,31-10
+696,1998,John,Hume,peace,male,18-01-1937,GB,Northern Ireland,John Hume,18-01
+697,1998,David,Trimble,peace,male,15-10-1944,GB,Northern Ireland,David Trimble,15-10
+698,1998,Robert B.,Laughlin,physics,male,01-11-1950,US,USA,Robert B. Laughlin,01-11
+699,1999,Günter,Grass,literature,male,16-10-1927,PL,Poland,Günter Grass,16-10
+700,1999,Ahmed,Zewail,chemistry,male,26-02-1946,EG,Egypt,Ahmed Zewail,26-02
+702,1999,Martinus J.G.,Veltman,physics,male,27-06-1931,NL,the Netherlands,Martinus J.G. Veltman,27-06
+703,1999,Gerardus,'t Hooft,physics,male,05-07-1946,NL,the Netherlands,Gerardus 't Hooft,05-07
+704,1999,Robert,Mundell,economics,male,24-10-1932,CA,Canada,Robert Mundell,24-10
+705,1999,Günter,Blobel,medicine,male,21-05-1936,PL,Poland,Günter Blobel,21-05
+706,2000,Alan,MacDiarmid,chemistry,male,14-04-1927,NZ,New Zealand,Alan MacDiarmid,14-04
+707,2000,Xingjian,Gao,literature,male,04-01-1940,CN,China,Xingjian Gao,04-01
+708,2000,Daniel L.,McFadden,economics,male,29-07-1937,US,USA,Daniel L. McFadden,29-07
+709,2000,James J.,Heckman,economics,male,19-04-1944,US,USA,James J. Heckman,19-04
+710,2000,Hideki,Shirakawa,chemistry,male,20-08-1936,JP,Japan,Hideki Shirakawa,20-08
+711,2000,Alan,Heeger,chemistry,male,22-01-1936,US,USA,Alan Heeger,22-01
+712,2000,Paul,Greengard,medicine,male,11-12-1925,US,USA,Paul Greengard,11-12
+713,2000,Herbert,Kroemer,physics,male,25-08-1928,DE,Germany,Herbert Kroemer,25-08
+714,2000,Zhores,Alferov,physics,male,15-03-1930,BY,Belarus,Zhores Alferov,15-03
+715,2000,Kim,Dae-jung,peace,male,03-12-1925,KR,South Korea,Kim Dae-jung,03-12
+716,2000,Eric,Kandel,medicine,male,07-11-1929,AT,Austria,Eric Kandel,07-11
+717,2000,Arvid,Carlsson,medicine,male,25-01-1923,SE,Sweden,Arvid Carlsson,25-01
+718,2000,Jack,Kilby,physics,male,08-11-1923,US,USA,Jack Kilby,08-11
+719,2001,George A.,Akerlof,economics,male,17-06-1940,US,USA,George A. Akerlof,17-06
+720,2001,Kofi,Annan,peace,male,08-04-1938,GH,Ghana,Kofi Annan,08-04
+722,2001,V. S.,Naipaul,literature,male,17-08-1932,TT,Trinidad and Tobago,V. S. Naipaul,17-08
+723,2001,Joseph E.,Stiglitz,economics,male,09-02-1943,US,USA,Joseph E. Stiglitz,09-02
+725,2001,Barry,Sharpless,chemistry,male,28-04-1941,US,USA,Barry Sharpless,28-04
+726,2001,Ryoji,Noyori,chemistry,male,03-09-1938,JP,Japan,Ryoji Noyori,03-09
+727,2001,William,Knowles,chemistry,male,01-06-1917,US,USA,William Knowles,01-06
+728,2001,Carl,Wieman,physics,male,26-03-1951,US,USA,Carl Wieman,26-03
+729,2001,Wolfgang,Ketterle,physics,male,21-10-1957,DE,Germany,Wolfgang Ketterle,21-10
+730,2001,Eric,Cornell,physics,male,19-12-1961,US,USA,Eric Cornell,19-12
+731,2001,Sir Paul,Nurse,medicine,male,25-01-1949,GB,United Kingdom,Sir Paul Nurse,25-01
+732,2001,Tim,Hunt,medicine,male,19-02-1943,GB,United Kingdom,Tim Hunt,19-02
+733,2001,Leland,Hartwell,medicine,male,30-10-1939,US,USA,Leland Hartwell,30-10
+734,2002,Jimmy,Carter,peace,male,01-10-1924,US,USA,Jimmy Carter,01-10
+735,2002,Imre,Kertész,literature,male,09-11-1929,HU,Hungary,Imre Kertész,09-11
+736,2002,Daniel,Kahneman,economics,male,05-03-1934,IL,Israel,Daniel Kahneman,05-03
+737,2002,Kurt,Wüthrich,chemistry,male,04-10-1938,CH,Switzerland,Kurt Wüthrich,04-10
+738,2002,Koichi,Tanaka,chemistry,male,03-08-1959,JP,Japan,Koichi Tanaka,03-08
+739,2002,John B.,Fenn,chemistry,male,15-06-1917,US,USA,John B. Fenn,15-06
+740,2002,Vernon L.,Smith,economics,male,01-01-1927,US,USA,Vernon L. Smith,01-01
+741,2002,Masatoshi,Koshiba,physics,male,19-09-1926,JP,Japan,Masatoshi Koshiba,19-09
+742,2002,Raymond,Davis Jr.,physics,male,14-10-1914,US,USA,Raymond Davis Jr.,14-10
+743,2002,John E.,Sulston,medicine,male,27-03-1942,GB,United Kingdom,John E. Sulston,27-03
+744,2002,H. Robert,Horvitz,medicine,male,08-05-1947,US,USA,H. Robert Horvitz,08-05
+745,2002,Sydney,Brenner,medicine,male,13-01-1927,ZA,South Africa,Sydney Brenner,13-01
+746,2002,Riccardo,Giacconi,physics,male,06-10-1931,IT,Italy,Riccardo Giacconi,06-10
+747,2003,Shirin,Ebadi,peace,female,21-06-1947,IR,Iran,Shirin Ebadi,21-06
+748,2003,Clive W.J.,Granger,economics,male,04-09-1934,GB,United Kingdom,Clive W.J. Granger,04-09
+749,2003,Robert F.,Engle III,economics,male,10-11-1942,US,USA,Robert F. Engle III,10-11
+750,2003,Roderick,MacKinnon,chemistry,male,19-02-1956,US,USA,Roderick MacKinnon,19-02
+751,2003,Peter,Agre,chemistry,male,30-01-1949,US,USA,Peter Agre,30-01
+752,2003,Anthony J.,Leggett,physics,male,26-03-1938,GB,United Kingdom,Anthony J. Leggett,26-03
+753,2003,Vitaly L.,Ginzburg,physics,male,04-10-1916,RU,Russia,Vitaly L. Ginzburg,04-10
+754,2003,Sir Peter,Mansfield,medicine,male,09-10-1933,GB,United Kingdom,Sir Peter Mansfield,09-10
+755,2003,Paul C.,Lauterbur,medicine,male,06-05-1929,US,USA,Paul C. Lauterbur,06-05
+756,2003,J. M.,Coetzee,literature,male,09-02-1940,ZA,South Africa,J. M. Coetzee,09-02
+757,2003,Alexei,Abrikosov,physics,male,25-06-1928,RU,Russia,Alexei Abrikosov,25-06
+758,2004,Edward C.,Prescott,economics,male,26-12-1940,US,USA,Edward C. Prescott,26-12
+759,2004,Irwin,Rose,chemistry,male,16-07-1926,US,USA,Irwin Rose,16-07
+760,2004,Finn E.,Kydland,economics,male,01-12-1943,NO,Norway,Finn E. Kydland,01-12
+761,2004,Wangari,Maathai,peace,female,01-04-1940,KE,Kenya,Wangari Maathai,01-04
+762,2004,Elfriede,Jelinek,literature,female,20-10-1946,AT,Austria,Elfriede Jelinek,20-10
+763,2004,Avram,Hershko,chemistry,male,31-12-1937,HU,Hungary,Avram Hershko,31-12
+764,2004,David J.,Gross,physics,male,19-02-1941,US,USA,David J. Gross,19-02
+765,2004,Frank,Wilczek,physics,male,15-05-1951,US,USA,Frank Wilczek,15-05
+766,2004,H. David,Politzer,physics,male,31-08-1949,US,USA,H. David Politzer,31-08
+767,2004,Linda B.,Buck,medicine,female,29-01-1947,US,USA,Linda B. Buck,29-01
+768,2004,Richard,Axel,medicine,male,02-07-1946,US,USA,Richard Axel,02-07
+769,2004,Aaron,Ciechanover,chemistry,male,01-10-1947,IL,Israel,Aaron Ciechanover,01-10
+770,2005,Harold,Pinter,literature,male,10-10-1930,GB,United Kingdom,Harold Pinter,10-10
+771,2005,Thomas C.,Schelling,economics,male,14-04-1921,US,USA,Thomas C. Schelling,14-04
+772,2005,Mohamed,ElBaradei,peace,male,17-06-1942,EG,Egypt,Mohamed ElBaradei,17-06
+774,2005,Richard R.,Schrock,chemistry,male,04-01-1945,US,USA,Richard R. Schrock,04-01
+775,2005,Robert H.,Grubbs,chemistry,male,27-02-1942,US,USA,Robert H. Grubbs,27-02
+776,2005,Robert J.,Aumann,economics,male,08-06-1930,DE,Germany,Robert J. Aumann,08-06
+777,2005,Theodor W.,Hänsch,physics,male,30-10-1941,DE,Germany,Theodor W. Hänsch,30-10
+778,2005,John L.,Hall,physics,male,21-08-1934,US,USA,John L. Hall,21-08
+779,2005,Roy J.,Glauber,physics,male,01-09-1925,US,USA,Roy J. Glauber,01-09
+780,2005,J. Robin,Warren,medicine,male,11-06-1937,AU,Australia,J. Robin Warren,11-06
+781,2005,Barry J.,Marshall,medicine,male,30-09-1951,AU,Australia,Barry J. Marshall,30-09
+782,2005,Yves,Chauvin,chemistry,male,10-10-1930,BE,Belgium,Yves Chauvin,10-10
+784,2006,Muhammad,Yunus,peace,male,28-06-1940,BD,Bangladesh,Muhammad Yunus,28-06
+785,2006,Orhan,Pamuk,literature,male,07-06-1952,TR,Turkey,Orhan Pamuk,07-06
+786,2006,Edmund S.,Phelps,economics,male,26-07-1933,US,USA,Edmund S. Phelps,26-07
+787,2006,Roger D.,Kornberg,chemistry,male,24-04-1947,US,USA,Roger D. Kornberg,24-04
+788,2006,George F.,Smoot,physics,male,20-02-1945,US,USA,George F. Smoot,20-02
+789,2006,Craig C.,Mello,medicine,male,18-10-1960,US,USA,Craig C. Mello,18-10
+790,2006,Andrew Z.,Fire,medicine,male,27-04-1959,US,USA,Andrew Z. Fire,27-04
+791,2006,John C.,Mather,physics,male,07-08-1946,US,USA,John C. Mather,07-08
+792,2007,Roger B.,Myerson,economics,male,29-03-1951,US,USA,Roger B. Myerson,29-03
+793,2007,Eric S.,Maskin,economics,male,12-12-1950,US,USA,Eric S. Maskin,12-12
+794,2007,Leonid,Hurwicz,economics,male,21-08-1917,RU,Russia,Leonid Hurwicz,21-08
+795,2007,Al,Gore,peace,male,31-03-1948,US,USA,Al Gore,31-03
+797,2007,Gerhard,Ertl,chemistry,male,10-10-1936,DE,Germany,Gerhard Ertl,10-10
+798,2007,Doris,Lessing,literature,female,22-10-1919,IR,Iran,Doris Lessing,22-10
+799,2007,Albert,Fert,physics,male,07-03-1938,FR,France,Albert Fert,07-03
+800,2007,Oliver,Smithies,medicine,male,23-06-1925,GB,United Kingdom,Oliver Smithies,23-06
+801,2007,Sir Martin J.,Evans,medicine,male,01-01-1941,GB,United Kingdom,Sir Martin J. Evans,01-01
+802,2007,Mario R.,Capecchi,medicine,male,06-10-1937,IT,Italy,Mario R. Capecchi,06-10
+803,2007,Peter,Grünberg,physics,male,18-05-1939,CZ,Czech Republic,Peter Grünberg,18-05
+804,2008,Martti,Ahtisaari,peace,male,23-06-1937,FI,Finland,Martti Ahtisaari,23-06
+805,2008,Jean-Marie Gustave,Le Clézio,literature,male,13-04-1940,FR,France,Jean-Marie Gustave Le Clézio,13-04
+806,2008,Roger Y.,Tsien,chemistry,male,01-02-1952,US,USA,Roger Y. Tsien,01-02
+807,2008,Martin,Chalfie,chemistry,male,15-01-1947,US,USA,Martin Chalfie,15-01
+808,2008,Osamu,Shimomura,chemistry,male,27-08-1928,JP,Japan,Osamu Shimomura,27-08
+809,2008,Toshihide,Maskawa,physics,male,07-02-1940,JP,Japan,Toshihide Maskawa,07-02
+810,2008,Paul,Krugman,economics,male,28-02-1953,US,USA,Paul Krugman,28-02
+811,2008,Yoichiro,Nambu,physics,male,18-01-1921,JP,Japan,Yoichiro Nambu,18-01
+812,2008,Luc,Montagnier,medicine,male,18-08-1932,FR,France,Luc Montagnier,18-08
+813,2008,Françoise,Barré-Sinoussi,medicine,female,30-07-1947,FR,France,Françoise Barré-Sinoussi,30-07
+814,2008,Harald,zur Hausen,medicine,male,11-03-1936,DE,Germany,Harald zur Hausen,11-03
+815,2008,Makoto,Kobayashi,physics,male,07-04-1944,JP,Japan,Makoto Kobayashi,07-04
+816,2009,Oliver E.,Williamson,economics,male,27-09-1932,US,USA,Oliver E. Williamson,27-09
+817,2009,Elinor,Ostrom,economics,female,07-08-1933,US,USA,Elinor Ostrom,07-08
+818,2009,Barack,Obama,peace,male,04-08-1961,US,USA,Barack Obama,04-08
+819,2009,Herta,Müller,literature,female,17-08-1953,RO,Romania,Herta Müller,17-08
+820,2009,Ada E.,Yonath,chemistry,female,22-06-1939,IL,Israel,Ada E. Yonath,22-06
+821,2009,Thomas A.,Steitz,chemistry,male,23-08-1940,US,USA,Thomas A. Steitz,23-08
+823,2009,George E.,Smith,physics,male,10-05-1930,US,USA,George E. Smith,10-05
+824,2009,Charles K.,Kao,physics,male,04-11-1933,CN,China,Charles K. Kao,04-11
+825,2009,Jack W.,Szostak,medicine,male,09-11-1952,GB,United Kingdom,Jack W. Szostak,09-11
+826,2009,Carol W.,Greider,medicine,female,15-04-1961,US,USA,Carol W. Greider,15-04
+827,2009,Elizabeth H.,Blackburn,medicine,female,26-11-1948,AU,Australia,Elizabeth H. Blackburn,26-11
+828,2009,Willard S.,Boyle,physics,male,19-08-1924,CA,Canada,Willard S. Boyle,19-08
+829,2010,Dale T.,Mortensen,economics,male,02-02-1939,US,USA,Dale T. Mortensen,02-02
+830,2010,Mario,Vargas Llosa,literature,male,28-03-1936,PE,Peru,Mario Vargas Llosa,28-03
+831,2010,Christopher A.,Pissarides,economics,male,20-02-1948,CY,Cyprus,Christopher A. Pissarides,20-02
+832,2010,Xiaobo,Liu,peace,male,28-12-1955,CN,China,Xiaobo Liu,28-12
+833,2010,Akira,Suzuki,chemistry,male,12-09-1930,JP,Japan,Akira Suzuki,12-09
+834,2010,Peter A.,Diamond,economics,male,29-04-1940,US,USA,Peter A. Diamond,29-04
+835,2010,Richard F.,Heck,chemistry,male,15-08-1931,US,USA,Richard F. Heck,15-08
+836,2010,Konstantin,Novoselov,physics,male,23-08-1974,RU,Russia,Konstantin Novoselov,23-08
+837,2010,Andre,Geim,physics,male,21-10-1958,RU,Russia,Andre Geim,21-10
+838,2010,Robert G.,Edwards,medicine,male,27-09-1925,GB,United Kingdom,Robert G. Edwards,27-09
+839,2010,Ei-ichi,Negishi,chemistry,male,14-07-1935,CN,China,Ei-ichi Negishi,14-07
+840,2011,Christopher A.,Sims,economics,male,21-10-1942,US,USA,Christopher A. Sims,21-10
+841,2011,Tawakkol,Karman,peace,female,07-02-1979,YE,Yemen,Tawakkol Karman,07-02
+842,2011,Leymah,Gbowee,peace,female,01-02-1972,LR,Liberia,Leymah Gbowee,01-02
+843,2011,Ellen,Johnson Sirleaf,peace,female,29-10-1938,LR,Liberia,Ellen Johnson Sirleaf,29-10
+844,2011,Tomas,Tranströmer,literature,male,15-04-1931,SE,Sweden,Tomas Tranströmer,15-04
+845,2011,Dan,Shechtman,chemistry,male,24-01-1941,IL,Israel,Dan Shechtman,24-01
+846,2011,Thomas J.,Sargent,economics,male,19-07-1943,US,USA,Thomas J. Sargent,19-07
+847,2011,Brian P.,Schmidt,physics,male,24-02-1967,US,USA,Brian P. Schmidt,24-02
+849,2011,Ralph M.,Steinman,medicine,male,14-01-1943,CA,Canada,Ralph M. Steinman,14-01
+850,2011,Jules A.,Hoffmann,medicine,male,02-08-1941,LU,Luxembourg,Jules A. Hoffmann,02-08
+851,2011,Bruce A.,Beutler,medicine,male,29-12-1957,US,USA,Bruce A. Beutler,29-12
+852,2011,Adam G.,Riess,physics,male,16-12-1969,US,USA,Adam G. Riess,16-12
+853,2012,Lloyd S.,Shapley,economics,male,02-06-1923,US,USA,Lloyd S. Shapley,02-06
+854,2012,Alvin E.,Roth,economics,male,18-12-1951,US,USA,Alvin E. Roth,18-12
+856,2012,Mo,Yan,literature,male,02-02-1955,CN,China,Mo Yan,02-02
+857,2012,Brian,Kobilka,chemistry,male,30-05-1955,US,USA,Brian Kobilka,30-05
+858,2012,Robert J.,Lefkowitz,chemistry,male,15-04-1943,US,USA,Robert J. Lefkowitz,15-04
+859,2012,Serge,Haroche,physics,male,11-09-1944,MA,Morocco,Serge Haroche,11-09
+860,2012,Shinya,Yamanaka,medicine,male,04-09-1962,JP,Japan,Shinya Yamanaka,04-09
+861,2012,Sir John B.,Gurdon,medicine,male,02-10-1933,GB,United Kingdom,Sir John B. Gurdon,02-10
+862,2012,David J.,Wineland,physics,male,24-02-1944,US,USA,David J. Wineland,24-02
+863,2013,Robert J.,Shiller,economics,male,29-03-1946,US,USA,Robert J. Shiller,29-03
+864,2013,Arieh,Warshel,chemistry,male,20-11-1940,IL,Israel,Arieh Warshel,20-11
+865,2013,Lars Peter,Hansen,economics,male,26-10-1952,US,USA,Lars Peter Hansen,26-10
+866,2013,Eugene F.,Fama,economics,male,14-02-1939,US,USA,Eugene F. Fama,14-02
+868,2013,Alice,Munro,literature,female,10-07-1931,CA,Canada,Alice Munro,10-07
+869,2013,Michael,Levitt,chemistry,male,09-05-1947,ZA,South Africa,Michael Levitt,09-05
+870,2013,Martin,Karplus,chemistry,male,15-03-1930,AT,Austria,Martin Karplus,15-03
+871,2013,Peter,Higgs,physics,male,29-05-1929,GB,United Kingdom,Peter Higgs,29-05
+872,2013,François,Englert,physics,male,06-11-1932,BE,Belgium,François Englert,06-11
+873,2013,Thomas C.,Südhof,medicine,male,22-12-1955,DE,Germany,Thomas C. Südhof,22-12
+874,2013,Randy W.,Schekman,medicine,male,30-12-1948,US,USA,Randy W. Schekman,30-12
+875,2013,James E.,Rothman,medicine,male,03-11-1950,US,USA,James E. Rothman,03-11
+876,2014,Jean,Tirole,economics,male,09-08-1953,FR,France,Jean Tirole,09-08
+877,2014,Malala,Yousafzai,peace,female,12-07-1997,PK,Pakistan,Malala Yousafzai,12-07
+878,2014,Patrick,Modiano,literature,male,30-07-1945,FR,France,Patrick Modiano,30-07
+879,2014,William E.,Moerner,chemistry,male,24-06-1953,US,USA,William E. Moerner,24-06
+880,2014,Stefan W.,Hell,chemistry,male,23-12-1962,RO,Romania,Stefan W. Hell,23-12
+881,2014,Eric,Betzig,chemistry,male,13-01-1960,US,USA,Eric Betzig,13-01
+882,2014,Kailash,Satyarthi,peace,male,11-01-1954,IN,India,Kailash Satyarthi,11-01
+883,2014,Hiroshi,Amano,physics,male,11-09-1960,JP,Japan,Hiroshi Amano,11-09
+884,2014,Isamu,Akasaki,physics,male,30-01-1929,JP,Japan,Isamu Akasaki,30-01
+885,2014,Edvard I.,Moser,medicine,male,27-04-1962,NO,Norway,Edvard I. Moser,27-04
+886,2014,May-Britt,Moser,medicine,female,04-01-1963,NO,Norway,May-Britt Moser,04-01
+887,2014,John,O'Keefe,medicine,male,18-11-1939,US,USA,John O'Keefe,18-11
+888,2014,Shuji,Nakamura,physics,male,22-05-1954,JP,Japan,Shuji Nakamura,22-05
+889,2015,Angus,Deaton,economics,male,19-10-1945,GB,Scotland,Angus Deaton,19-10
+891,2015,Svetlana,Alexievich,literature,female,31-05-1948,UA,Ukraine,Svetlana Alexievich,31-05
+892,2015,Aziz,Sancar,chemistry,male,08-09-1946,TR,Turkey,Aziz Sancar,08-09
+893,2015,Paul,Modrich,chemistry,male,13-06-1946,US,USA,Paul Modrich,13-06
+894,2015,Tomas,Lindahl,chemistry,male,28-01-1938,SE,Sweden,Tomas Lindahl,28-01
+895,2015,Takaaki,Kajita,physics,male,09-03-1959,JP,Japan,Takaaki Kajita,09-03
+896,2015,Youyou,Tu,medicine,female,30-12-1930,CN,China,Youyou Tu,30-12
+897,2015,Satoshi,Ōmura,medicine,male,12-07-1935,JP,Japan,Satoshi Ōmura,12-07
+898,2015,William C.,Campbell,medicine,male,28-06-1930,IE,Ireland,William C. Campbell,28-06
+899,2015,Arthur B.,McDonald,physics,male,29-08-1943,CA,Canada,Arthur B. McDonald,29-08
+900,2016,Bengt,Holmström,economics,male,18-04-1949,FI,Finland,Bengt Holmström,18-04
+901,2016,Bernard L.,Feringa,chemistry,male,18-05-1951,NL,the Netherlands,Bernard L. Feringa,18-05
+902,2016,Oliver,Hart,economics,male,09-10-1948,GB,United Kingdom,Oliver Hart,09-10
+903,2016,Juan Manuel,Santos,peace,male,10-08-1951,CO,Colombia,Juan Manuel Santos,10-08
+904,2016,Sir J. Fraser,Stoddart,chemistry,male,24-05-1942,GB,United Kingdom,Sir J. Fraser Stoddart,24-05
+905,2016,Bob,Dylan,literature,male,24-05-1941,US,USA,Bob Dylan,24-05
+906,2016,J. Michael,Kosterlitz,physics,male,22-06-1943,GB,United Kingdom,J. Michael Kosterlitz,22-06
+907,2016,F. Duncan M.,Haldane,physics,male,14-09-1951,GB,United Kingdom,F. Duncan M. Haldane,14-09
+908,2016,David J.,Thouless,physics,male,21-09-1934,GB,United Kingdom,David J. Thouless,21-09
+909,2016,Yoshinori,Ohsumi,medicine,male,09-02-1945,JP,Japan,Yoshinori Ohsumi,09-02
+910,2016,Jean-Pierre,Sauvage,chemistry,male,21-10-1944,FR,France,Jean-Pierre Sauvage,21-10
+912,2017,Kazuo,Ishiguro,literature,male,08-11-1954,JP,Japan,Kazuo Ishiguro,08-11
+913,2017,Richard,Henderson,chemistry,male,19-07-1945,GB,Scotland,Richard Henderson,19-07
+914,2017,Joachim,Frank,chemistry,male,12-09-1940,DE,Germany,Joachim Frank,12-09
+915,2017,Jacques,Dubochet,chemistry,male,08-06-1942,CH,Switzerland,Jacques Dubochet,08-06
+916,2017,Kip S.,Thorne,physics,male,01-06-1940,US,USA,Kip S. Thorne,01-06
+917,2017,Richard H.,Thaler,economics,male,12-09-1945,US,USA,Richard H. Thaler,12-09
+918,2017,Rainer,Weiss,physics,male,29-09-1932,DE,Germany,Rainer Weiss,29-09
+919,2017,Michael W.,Young,medicine,male,28-03-1949,US,USA,Michael W. Young,28-03
+920,2017,Michael,Rosbash,medicine,male,07-03-1944,US,USA,Michael Rosbash,07-03
+921,2017,Jeffrey C.,Hall,medicine,male,03-05-1945,US,USA,Jeffrey C. Hall,03-05
+922,2017,Barry C.,Barish,physics,male,27-01-1936,US,USA,Barry C. Barish,27-01
+923,2018,Olga,Tokarczuk,literature,female,29-01-1962,PL,Poland,Olga Tokarczuk,29-01
+925,2018,William D.,Nordhaus,economics,male,31-05-1941,US,USA,William D. Nordhaus,31-05
+927,2018,Denis,Mukwege,peace,male,01-03-1955,CD,Democratic Republic of the Congo,Denis Mukwege,01-03
+928,2018,Sir Gregory P.,Winter,chemistry,male,14-04-1951,GB,United Kingdom,Sir Gregory P. Winter,14-04
+929,2018,George P.,Smith,chemistry,male,10-03-1941,US,USA,George P. Smith,10-03
+930,2018,Frances H.,Arnold,chemistry,female,25-07-1956,US,USA,Frances H. Arnold,25-07
+931,2018,Gérard,Mourou,physics,male,22-06-1944,FR,France,Gérard Mourou,22-06
+932,2018,Arthur,Ashkin,physics,male,02-09-1922,US,USA,Arthur Ashkin,02-09
+933,2018,Tasuku,Honjo,medicine,male,27-01-1942,JP,Japan,Tasuku Honjo,27-01
+934,2018,James P.,Allison,medicine,male,07-08-1948,US,USA,James P. Allison,07-08
+935,2018,Donna,Strickland,physics,female,27-05-1959,CA,Canada,Donna Strickland,27-05
+936,2019,Akira,Yoshino,chemistry,male,30-01-1948,JP,Japan,Akira Yoshino,30-01
+937,2019,Abhijit,Banerjee,economics,male,21-02-1961,IN,India,Abhijit Banerjee,21-02
+938,2019,Michael,Kremer,economics,male,12-11-1964,US,USA,Michael Kremer,12-11
+939,2019,Peter,Handke,literature,male,06-12-1942,AT,Austria,Peter Handke,06-12
+940,2019,Esther,Duflo,economics,female,25-10-1972,FR,France,Esther Duflo,25-10
+941,2019,M. Stanley,Whittingham,chemistry,male,22-12-1941,GB,United Kingdom,M. Stanley Whittingham,22-12
+942,2019,Abiy,Ahmed Ali,peace,male,15-08-1976,ET,Ethiopia,Abiy Ahmed Ali,15-08
+943,2019,Didier,Queloz,physics,male,23-02-1966,CH,Switzerland,Didier Queloz,23-02
+944,2019,Michel,Mayor,physics,male,12-01-1942,CH,Switzerland,Michel Mayor,12-01
+945,2019,James,Peebles,physics,male,25-04-1935,CA,Canada,James Peebles,25-04
+946,2019,Gregg,Semenza,medicine,male,12-07-1956,US,USA,Gregg Semenza,12-07
+947,2019,Peter,Ratcliffe,medicine,male,14-05-1954,GB,United Kingdom,Peter Ratcliffe,14-05
+948,2019,William,Kaelin,medicine,male,23-11-1957,US,USA,William Kaelin,23-11
+949,2019,John,Goodenough,chemistry,male,25-07-1922,DE,Germany,John Goodenough,25-07
+950,2020,Robert,Wilson,economics,male,16-05-1937,US,USA,Robert Wilson,16-05
+951,2020,Paul,Milgrom,economics,male,20-04-1948,US,USA,Paul Milgrom,20-04
+953,2020,Louise,Glück,literature,female,22-04-1943,US,USA,Louise Glück,22-04
+954,2020,Jennifer A.,Doudna,chemistry,female,19-02-1964,US,USA,Jennifer A. Doudna,19-02
+955,2020,Emmanuelle,Charpentier,chemistry,female,11-12-1968,FR,France,Emmanuelle Charpentier,11-12
+956,2020,Reinhard,Genzel,physics,male,24-03-1952,DE,Germany,Reinhard Genzel,24-03
+957,2020,Roger,Penrose,physics,male,08-08-1931,GB,United Kingdom,Roger Penrose,08-08
+958,2020,Charles,Rice,medicine,male,25-08-1952,US,USA,Charles Rice,25-08
+960,2020,Harvey,Alter,medicine,male,12-09-1935,US,USA,Harvey Alter,12-09
+961,2020,Andrea,Ghez,physics,female,16-06-1965,US,USA,Andrea Ghez,16-06
+963,2021,Joshua,Angrist,economics,male,18-09-1960,US,USA,Joshua Angrist,18-09
+966,2021,Guido,Imbens,economics,male,03-09-1963,NL,the Netherlands,Guido Imbens,03-09
+967,2021,Maria,Ressa,peace,female,02-10-1963,PH,Philippines,Maria Ressa,02-10
+968,2021,David,MacMillan,chemistry,male,16-03-1968,GB,United Kingdom,David MacMillan,16-03
+969,2021,Syukuro,Manabe,physics,male,21-09-1931,JP,Japan,Syukuro Manabe,21-09
+970,2021,Giorgio,Parisi,physics,male,04-08-1948,IT,Italy,Giorgio Parisi,04-08
+971,2021,Klaus,Hasselmann,physics,male,25-10-1931,DE,Germany,Klaus Hasselmann,25-10
+973,2021,David,Julius,medicine,male,04-11-1955,US,USA,David Julius,04-11
+974,2021,Benjamin,List,chemistry,male,11-01-1968,DE,Germany,Benjamin List,11-01
+975,2022,Ben,Bernanke,economics,male,13-12-1953,US,USA,Ben Bernanke,13-12
+978,2022,Ales,Bialiatski,peace,male,25-09-1962,RU,Russia,Ales Bialiatski,25-09
+979,2022,Annie,Ernaux,literature,female,01-09-1940,FR,France,Annie Ernaux,01-09
+981,2022,Anton,Zeilinger,physics,male,20-05-1945,AT,Austria,Anton Zeilinger,20-05
+982,2022,John F.,Clauser,physics,male,01-12-1942,US,USA,John F. Clauser,01-12
+983,2022,Alain,Aspect,physics,male,15-06-1947,FR,France,Alain Aspect,15-06
+984,2022,Svante,Pääbo,medicine,male,20-04-1955,SE,Sweden,Svante Pääbo,20-04
+985,2022,Barry,Sharpless,chemistry,male,28-04-1941,US,USA,Barry Sharpless,28-04
+986,2022,Douglas,Diamond,economics,male,25-10-1953,US,USA,Douglas Diamond,25-10
+987,2022,Carolyn,Bertozzi,chemistry,female,10-10-1966,US,USA,Carolyn Bertozzi,10-10
+988,2022,Philip,Dybvig,economics,male,22-05-1955,US,USA,Philip Dybvig,22-05
